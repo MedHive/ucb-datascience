@@ -1,0 +1,66 @@
+source,target,relation
+49,19,point in time
+8,57,has part
+57,8,part of
+57,29,followed by
+29,57,follows
+53,47,headquarters location
+35,34,has part
+35,45,has part
+34,35,part of
+34,45,part of
+45,35,part of
+45,34,part of
+63,61,inception
+22,69,country
+23,0,instance of
+57,27,instance of
+72,38,point in time
+41,30,instance of
+8,43,instance of
+3,56,subclass of
+67,24,instance of
+7,11,subclass of
+37,7,subclass of
+25,18,has part
+18,25,part of
+4,42,instance of
+13,1,facet of
+7,48,studied by
+48,7,studies
+26,24,instance of
+71,24,instance of
+72,6,manufacturer
+29,5,instance of
+29,10,use
+50,62,has part
+62,50,part of
+15,58,inception
+36,12,subclass of
+28,14,has part
+14,28,part of
+33,68,number of episodes
+16,52,main subject
+31,70,has part
+31,64,has part
+31,9,has part
+31,32,has part
+70,31,part of
+64,31,part of
+9,31,part of
+32,31,part of
+55,40,subclass of
+44,20,instance of
+65,64,has part
+64,65,part of
+59,70,part of
+70,59,has part
+66,46,parent organization
+46,66,subsidiary
+48,54,part of
+57,21,use
+71,51,use
+60,39,part of
+39,60,has part
+2,17,different from
+17,2,different from
