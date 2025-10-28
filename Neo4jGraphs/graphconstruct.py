@@ -137,15 +137,31 @@ text = """
 (1344, 400): {'relation': 'different from', 'head_span': O, 'tail_span': I}
 """
 
-pattern = re.compile(r"'relation': '(.+?)', 'head_span': (.*?), 'tail_span': (.*?)}")
+pattern = re.compile(
+    r"'relation'\s*:\s*'(?P<relation>[^']+)"  # relation quoted
+    r"'\s*,\s*'head_span'\s*:\s*(?P<head>.*?)(?=,\s*'tail_span'\s*:)"  # head up to the tail marker
+    r"\s*,\s*'tail_span'\s*:\s*(?P<tail>.*?)(?=})",
+    re.DOTALL,
+)
+
 edges = []
 
 for match in pattern.finditer(text):
-    relation, head, tail = match.groups()
+    relation = match.group('relation')
+    head = match.group('head')
+    tail = match.group('tail')
+
+    # Clean up surrounding whitespace and possible surrounding quotes
+    def clean(s):
+        s = s.strip()
+        if (s.startswith("'") and s.endswith("'")) or (s.startswith('"') and s.endswith('"')):
+            s = s[1:-1]
+        return s.strip()
+
     edges.append({
-        'head_span': head.strip(),
-        'tail_span': tail.strip(),
-        'relation': relation
+        'head_span': clean(head),
+        'tail_span': clean(tail),
+        'relation': clean(relation),
     })
 
 # Now all values are strings
