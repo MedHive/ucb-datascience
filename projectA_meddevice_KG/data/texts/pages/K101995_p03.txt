@@ -1,0 +1,53 @@
+Traditional  510O(k)  Submission  for CAPNOSTREAM®20p  with Masimo  MXI  Sp02  Board
+The  Masimo  MVX1  SpO2  module,  integrated  in the  Capnostream2O  p monitor  presented
+
+in this  submission,  provides  the following  parameters  to  the  host for display:  SpO2
+
+(functional  oxygen saturation  of arterial  hemoglobin),  pulse rate,  SpCO
+
+(carboxyhemoglobin  saturation  in blood),  SpMet  (methemoglobin  saturation  in blood)
+
+and  SpHb  (total  hemoglobin  concentration  in blood).
+
+The host  monitor will display this data  to  the  user in numerics  via  a screen,  and  will
+
+also  display the  002 waveform  and  SP02  (pleth)  waveform  or  pulse bar  graph.
+
+The three  measurements  will  be  available  both  real time  and  in trend  summaries.
+
+In addition,  the  MVX1  board  provides  a Perfusion  Index  (Pl)  indicating  the  relative
+
+pulsatile  strength  at  the  sampling  site  is provided  to  the  host monitor for display.
+
+The  host displays the  Rainbow  SET  parameters  values on  the  screen  alongside  the
+
+four  IP1  (Integrated  Pulmonary  Index)  parameters  and  the  IPI  value  as  presented  on
+
+the  predicate  device.
+
+INTENDED  USE
+
+The  Capnostream®20p  combined  capnograph/pulse  oximeter  monitor  and  its
+accessories are  intended  to  provide  professionally trained  health  care  providers  with
+
+continuous,  non-invasive  measurement  and  monitoring  of carbon  dioxide  concentration
+of the  expired and  inspired  breath  and  respiration  rate,  and  with  continuous  noninvasive
+monitoring  of functional  oxygen  saturation  of arterial  hemoglobin  (SpO2)  and  pulse  rate.
+It is also indicated  for continuous  non-invasive monitoring  of carboxyhemoglobin
+
+saturation  (measured  by  an  SpCO/SpMetISpHb  sensor),  methemoglobin  saturation
+(measured  by an  SpCOfSpMetISpHb  sensor)  and  total  hemoglobin  concentration
+
+(measured  by an  SpCO/SpMetISpHb  sensor).  It is intended  for  use  with  neonatal,
+pediatric,  and  adult  patients  in hospitals,  hospital-type facilities,  intra-hospital  transport
+
+and  home  environments.
+
+The  Capnostream@20p  monitor provides  the clinician  with  an  integrated  pulmonary
+index  (IPI).  The  IP1  is based  on  four parameters  provided  by the monitor:  end  tidal
+carbon  dioxide,  respiration  rate,  oxygen  saturation  and. pulse  rate.  The  IP1  is a single
+index  of an  adult or  pediatric  patient's  ventilatory  status  displayed  on  a scale  of  1 - 10,
+
+Oridion  Medical  1 987 Ltd. 
+
+4

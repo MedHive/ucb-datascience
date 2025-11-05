@@ -1,0 +1,63 @@
+import os, csv, re, sys
+from dotenv import load_dotenv
+from neo4j import GraphDatabase
+
+load_dotenv("projectA_meddevice_KG/.env")
+URI=os.environ["NEO4J_URI"]; USER=os.environ["NEO4J_USERNAME"]; PWD=os.environ["NEO4J_PASSWORD"]
+driver=GraphDatabase.driver(URI, auth=(USER, PWD))
+
+def camel_to_upper_snake(s):
+    return re.sub(r'(?<!^)(?=[A-Z])', '_', s).upper()
+
+def is_node_token(x):
+    return isinstance(x, str) and ':' in x
+
+def norm_label(lbl):
+    m={'Device':'MedicalDevice','Predicate':'PredicateDevice'}
+    return m.get(lbl, lbl)
+
+def label_from(tok):
+    return norm_label(tok.split(':',1)[0])
+
+def ensure_node(sess, label, uri, ct, ut):
+    q=f"MERGE (n:{label} {{uri:$u}}) ON CREATE SET n.creation_timestamp=$ct SET n.last_updated_timestamp=$ut"
+    sess.run(q, u=uri, ct=ct, ut=ut)
+
+def main():
+    path=sys.argv[1]
+    created=0
+    with driver.session() as sess, open(path, newline='') as f:
+        r=csv.DictReader(f)
+        for row in r:
+            subj=row['subject'].strip()
+            pred=row['predicate'].strip()
+            obj=row['object'].strip()
+            src=row.get('source_documents','').strip()
+            ev=row.get('intext_evidence','').strip()
+            ct=row.get('creation_timestamp','').strip()
+            ut=row.get('last_updated_timestamp','').strip()
+            s_label=label_from(subj)
+            ensure_node(sess, s_label, subj, ct, ut)
+            if is_node_token(obj):
+                o_label=label_from(obj)
+                ensure_node(sess, o_label, obj, ct, ut)
+                rel=camel_to_upper_snake(pred)
+                q=(f"MATCH (s:{s_label} {{uri:$suri}}), (o:{o_label} {{uri:$ouri}}) "
+                   f"MERGE (s)-[r:{rel}]->(o) "
+                   f"SET r.source_documents=$src, r.intext_evidence=$ev, "
+                   f"    r.creation_timestamp=$ct, r.last_updated_timestamp=$ut")
+                sess.run(q, suri=subj, ouri=obj, src=src, ev=ev, ct=ct, ut=ut)
+            else:
+                prop=re.sub(r'[^A-Za-z0-9_]', '_', pred)
+                q=(f"MATCH (s:{s_label} {{uri:$suri}}) "
+                   f"SET s.`{prop}`=$val, "
+                   f"    s.`{prop}__source`=$src, "
+                   f"    s.`{prop}__evidence`=$ev, "
+                   f"    s.last_updated_timestamp=$ut")
+                sess.run(q, suri=subj, val=obj, src=src, ev=ev, ut=ut)
+            created+=1
+    print(f"Imported/merged {created} triples into Neo4j.")
+    driver.close()
+
+if __name__=='__main__':
+    main()

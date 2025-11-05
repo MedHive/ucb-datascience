@@ -1,0 +1,95 @@
+Traditional 510(k)  Submission  for CAPNOSTREAM®20p  with Masimo  MXI  5p02  Board
+
+Target 
+population 
+
+Identical 
+
+Design 
+
+Where  Used 
+
+It is intended for  use with
+neonatal,  pediatric,  and  adult
+patients
+See  K094012.
+
+Equivalent to the  Capnostream2o 
+described  in K094012
+It is to  be used  by  physicians, 
+nurses and  other trained  health  care  nurses  and other  trained  health
+providers  in critical  care patient 
+settings,  such  as  anesthesiology, 
+intensive  care  medicine,  neonatal 
+intensive  care  and  other health  care  medicine,  neonatal  intensive
+areas. 
+
+care  providers  in critical  care
+patient settings,  such  as
+anesthesiology,  intensive care
+
+It is to  be  used  by  physicians,
+
+Performance 
+Standards 
+
+IS0 21647 
+ISO09919 
+
+Safety 
+Standards 
+
+IEC/EN  60601-1 
+lEO/EN  60601-1-2 
+lEO  60601-1-8 
+ISO014971 
+EN  980 
+
+care  and  other health  care
+areas.
+IS0  21647
+ISO09919
+
+lEO/EN  60601-1
+lEO/EN  60601-1-2
+lEO  60601-1-8
+U L 60601 -1
+ISO014971
+EN  980
+
+Biocompatibility  There  are  no  issues  of 
+
+biocompatibility  for this  device and 
+no  biocompatibility testing  was 
+
+___________performed. 
+
+Sterility 
+
+_____________ 
+
+This  device  does  not require 
+sterilization 
+
+There  are  no  issues  of
+biocompatibility for this  device
+and  no  biocompatibility testing
+was  performed.
+This  device does  not  require
+sterilization
+
+The  Capnostream2op  with  Masimo  MX1  SpO2  board  enables the  measurement  of
+
+three  additional  parameters,  which  are  available  in the  predicate  device  MASIMO
+
+RAINBOW  SET  RADICAL  7 PULSE  CO-OXIMETER  (K080238):
+
+"  SpOO:  carboxyhemoglobin  saturation  in bl 'ood
+*  SpMet:  methemoglobin  saturation  in blood
+*  SpHb:  total  hemoglobin  concentration  in blood
+
+These parameters  have  been  clinically validated  by Masimo  Corporation.
+
+Oridion  Medical  1987  Ltd. 
+
+7

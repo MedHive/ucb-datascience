@@ -1,0 +1,75 @@
+Traditional  510(k)  Submission  for  CAPNOSTREAM020p  with Masimo  MX1  SpO2  Board
+where  10  indicates  optimal  pulmonary  status.  IP1  monitoring  displays a single  value that
+represents  the  patient's  pulmonary  parameters  and  alerts  clinicians to  changes  in the
+
+patient's  pulmonary  status.
+
+The  IP1  is an  adjunct to,  and  is not  intended to  replace,  vital  sign  monitoring.
+
+COMPARISON  TO  PREDICATE  DEVICES
+The  Capnostream20p  with  Masimo  MX1  board  is equivalent  to  the  predicate
+
+Capnostream2O  with  microMediCO2  002 board  with  the exception  of the  addition  of the
+
+three  Rainbow SET  parameters  (SpCO,  SpMET  and  Spl-b).
+
+The  new  device meets  the  safety  and  performance  standards  met  by the  predicate
+
+devices.
+
+Software  testing  was  performed  to validate the  performance  of the  new  monitor
+
+software  and  its  substantial equivalence  to  the  predicate  device. The  functional  features
+
+and  the  intended  use  of Capnostream2op  with  Masimo  MX1  board  are  substantially
+
+equivalent to  the  predicate  devices.
+
+A  hazard  analysis was  carried  out on  the  Capnostream  host  monitor displaying the
+
+Rainbow  SET  values. This  hazard  analysis  concluded  that any residual  risks were
+
+judged  as  acceptable when  weighed  against  the  intended  benefits  of use of the  system.
+
+Attribute 
+
+Capnostreamn2Op  with.Masimo 
+MXI  SpO2  board,  software 
+version 6.1. 
+
+Predicate  Device:
+Capnostream  Bedside
+Monitor with mnicroMediCO 2:
+K094012,  software  version
+5.6
+
+Indications for 
+use 
+
+The  Capnostream®D20p
+combined  capnograph/pulse
+oximeter  monitor  is intended  to
+
+The  Capnostream820p  combined 
+capnograph/pulse oximeter  monitor 
+and  its  accessories are  intended to 
+provide professionally trained  health  provide  professionally trained
+care  providers with  continuous,  non-  health  care providers  with
+continuous,  non-invasive
+invasive measurement  and 
+measurement  and  monitoring
+monitoring  of carbon  dioxide 
+of carbon  dioxide concentration
+concentration  of the  expired  and 
+of the expired  and  inspired
+inspired  breath  and  respiration  rate, 
+breath and  respiration  rate,  and
+and with  continuous noninvasive 
+with  continuous  non-invasive
+monitoring  of functional oxygen 
+monitoring  of functional  oxygen
+saturation  of arterial  hemoglobin 
+
+Oridion  Medical  1987  Ltd. 
+
+5

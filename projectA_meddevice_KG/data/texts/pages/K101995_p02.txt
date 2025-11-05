@@ -1,0 +1,63 @@
+Traditional  510(k)  Submission  for CAPN0STREAM®20p  with  Masimo  MXI  SpO2  Board
+PREDICATE  DEVICE
+CapnostreamT20 pwith  SET  parameters  is substantially equivalent to  the following
+commercially  available  devices:
+
+Manufacturer 
+
+Device 
+
+510(k)  No. 
+
+Clearance  Date
+
+Oridion  1957 
+Medical  Ltd
+
+Capnostream20 
+
+K094012 
+
+February  9, 2010
+
+Masimo  Corporation  Masimo  Rainbow SET 
+
+K080238 
+
+May  12,  2008
+
+Radical 7 Pulse  00-
+Oximeter
+
+DEVICE  DESCRIPTION
+The  Capnostream2op  bedside  monitor  is a two  parameter  monitor consisting  of a
+
+microMediCO2  capnography  module  and/or  a pulse  oximetry  module  implemented  in a
+
+host device.  The  host device  displays parameters  received  from  the  respective  modules
+
+and  generates  alarms when  preset  alarm  thresholds  are  crossed.  The  device  is
+classified  as 00K  Class 11  according  to  21  CIFR  § 868.1400  - Carbon  Dioxide Analyzer
+with  OQA 21  CFR  § 870.2700  Pulse  Oximeter  listed as  an  additional  or  alternate
+classification.
+
+This device  has  two  modules  that are  classified  as  follows:
+
+*  21  CFR  868.1400,  Carbon  Dioxide  Analyzer  (Classification  00K)
+
+*  21  CFR  870.2700  Pulse  Oximeter  (Classification  OQA).
+
+Each  module  is controlled  by dedicated  software that  is an  integral  part of the
+respective  module.  Each  module  provides  parameters  to  the  host software  (the
+Capnostream2op  device software)  which then  controls  the  display of the  received
+parameter values and  creates  alarms when  the  values cross  the preset  thresholds.
+
+The  microMediCO2  module  provides  the following  inputs to  the  host monitor:
+
+FiCO2,  EtCO2  numeric,  EtCO2  waveform,  Respiratory  Rate,  IPI  (integrated
+
+Pulmonary  Index).
+
+Oridion  Medical  1987 Ltd. 
+
+3

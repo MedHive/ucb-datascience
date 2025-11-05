@@ -1,0 +1,207 @@
+@prefix 510k: <http://www.example.org/510k#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.example.org/510k>
+  rdf:type owl:Ontology ;
+  rdfs:label "510(k) Premarket Notification Ontology" .
+
+#################################################################
+#    Classes
+#################################################################
+
+### Core Submission Classes ###
+
+# [cite_start]The overarching class representing a single 510(k) Premarket Notification. [cite: 1]
+510k:Submission rdf:type owl:Class .
+
+# [cite_start]The device for which the 510(k) is being submitted. [cite: 2]
+510k:MedicalDevice rdf:type owl:Class .
+
+# [cite_start]A legally marketed device to which the new device is compared for substantial equivalence. [cite: 3]
+510k:PredicateDevice rdf:type owl:Class .
+
+# [cite_start]The core argument demonstrating equivalence. [cite: 4]
+510k:SubstantialEquivalenceDiscussion rdf:type owl:Class .
+
+# The entity submitting the 510(k).
+510k:Applicant rdf:type owl:Class .
+
+### Supporting Documentation Classes ###
+
+# [cite_start]A general class for any submitted document. [cite: 5]
+510k:Documentation rdf:type owl:Class .
+
+# [cite_start]Information about tests conducted. [cite: 6]
+510k:TestingData rdf:type owl:Class .
+
+# [cite_start]Information related to the device's labeling. [cite: 7]
+510k:Labeling rdf:type owl:Class .
+
+# [cite_start]Specific details if the device contains software. [cite: 9]
+510k:SoftwareInformation rdf:type owl:Class .
+
+# [cite_start]Evidence of compliance with quality system regulations (e.g., 21 CFR 820). [cite: 10]
+510k:QualitySystemDocumentation rdf:type owl:Class .
+
+# [cite_start]Various statements required. [cite: 11]
+510k:Declaration rdf:type owl:Class .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+510k:hasPredicateDevice rdf:type owl:ObjectProperty ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range 510k:PredicateDevice .
+
+510k:comparesToPredicate rdf:type owl:ObjectProperty ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range 510k:PredicateDevice .
+
+510k:hasApplicant rdf:type owl:ObjectProperty ;
+  rdfs:domain 510k:Submission ;
+  rdfs:range 510k:Applicant .
+
+510k:concernsDevice rdf:type owl:ObjectProperty ;
+  rdfs:domain 510k:Submission ;
+  rdfs:range 510k:MedicalDevice .
+
+510k:includesDocumentation rdf:type owl:ObjectProperty ;
+  rdfs:domain 510k:Submission ;
+  rdfs:range 510k:Documentation .
+
+510k:hasSubstantialEquivalenceDiscussion rdf:type owl:ObjectProperty ;
+  rdfs:domain 510k:Submission ;
+  rdfs:range 510k:SubstantialEquivalenceDiscussion .
+
+510k:supportedByTestingData rdf:type owl:ObjectProperty ;
+  rdfs:domain [
+      owl:unionOf (
+        510k:SubstantialEquivalenceDiscussion
+        510k:MedicalDevice
+      )
+    ] ;
+  rdfs:range 510k:TestingData .
+
+510k:includesLabeling rdf:type owl:ObjectProperty ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range 510k:Labeling .
+
+510k:hasSoftwareComponent rdf:type owl:ObjectProperty ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range 510k:SoftwareInformation .
+
+#################################################################
+#    Data Properties
+#################################################################
+
+### Submission Properties ###
+510k:hasSubmissionType rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:Submission ;
+  rdfs:range xsd:string .
+
+510k:hasKNumber rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:Submission ;
+  rdfs:range xsd:string .
+
+510k:hasSubmissionDate rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:Submission ;
+  rdfs:range xsd:date .
+
+510k:hasDecisionStatus rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:Submission ;
+  rdfs:range xsd:string .
+
+510k:hasDecisionDate rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:Submission ;
+  rdfs:range xsd:date .
+
+### Medical Device Properties ###
+510k:hasTradeName rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range xsd:string .
+
+510k:hasCommonName rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range xsd:string .
+
+510k:hasClass rdf:type owl:DatatypeProperty ;
+  rdfs:comment "e.g., 'Class II'" ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range xsd:string .
+
+510k:hasProductCode rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range xsd:string .
+
+510k:hasRegulationNumber rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range xsd:string .
+
+510k:hasIntendedUseText rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range xsd:string .
+
+510k:hasIndicationsForUseText rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range xsd:string .
+
+510k:hasDeviceDescriptionText rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:MedicalDevice ;
+  rdfs:range xsd:string .
+
+### Predicate Device Properties ###
+510k:hasPredicateKNumber rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:PredicateDevice ;
+  rdfs:range xsd:string .
+
+510k:hasPredicateName rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:PredicateDevice ;
+  rdfs:range xsd:string .
+
+510k:hasPredicateManufacturer rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:PredicateDevice ;
+  rdfs:range xsd:string .
+
+510k:hasPredicateClearanceDate rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:PredicateDevice ;
+  rdfs:range xsd:date .
+
+### Testing Data Properties ###
+510k:hasTestType rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:TestingData ;
+  rdfs:range xsd:string .
+
+510k:hasTestOutcome rdf:type owl:DatatypeProperty ;
+  rdfs:comment "e.g., 'Pass', 'Fail'" ;
+  rdfs:domain 510k:TestingData ;
+  rdfs:range xsd:string .
+
+510k:hasTestSummaryText rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:TestingData ;
+  [cite_start]rdfs:range xsd:string . [cite: 12]
+
+### Software Information Properties ###
+510k:hasSoftwareVersion rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:SoftwareInformation ;
+  [cite_start]rdfs:range xsd:string . [cite: 12]
+
+510k:isOffTheShelfSoftware rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:SoftwareInformation ;
+  [cite_start]rdfs:range xsd:boolean . [cite: 12]
+
+### Applicant Properties ###
+510k:hasApplicantName rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:Applicant ;
+  rdfs:range xsd:string .
+
+510k:hasContactEmail rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:Applicant ;
+  rdfs:range xsd:string .
+
+510k:hasPhoneNumber rdf:type owl:DatatypeProperty ;
+  rdfs:domain 510k:Applicant ;
+  rdfs:range xsd:string .
