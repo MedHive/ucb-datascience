@@ -1,0 +1,294 @@
+id,name
+0,0(k
+1,1987
+2,1987 Medical Capnostream
+3,2
+4,2004
+5,2010
+6,20Bedside Predicate Device-
+7,20device
+8,21
+9,21 CFR
+10,21 CFR 1000- 1050
+11,21 CFR 1000-1050
+12,21 CFR 801 Subpart D
+13,21 CFR 870.2700 Pulse Oximeter (Classification OQA)
+14,21 CFR Part 801
+15,21 CFR Part 803
+16,21 CFR Part 807
+17,21 CFR Part 820
+18,21 CIFR
+19,21CFR
+20,2I CFR
+21,2I1CFR
+22,51
+23,510(k)
+24,510(k) Number
+25,510(k) Summary of Safety and Effectiveness
+26,510(k)No
+27,510k
+28,868.1400 -Carbon Dioxide Analyzer
+29,@prefix
+30,@prefix owl
+31,A2Algorithm
+32,ANOTHI
+33,Act
+34,Anthony D. Watson
+35,Attribute Capnostream
+36,B.S.
+37,B051971
+38,Bedside Monitor
+39,Biocompatibility
+40,C02
+41,C02 indications
+42,CAPNOSTREAM
+43,CAPNOSTREAM20
+44,CER
+45,CFR
+46,CFR 820
+47,CLASSIFICATION
+48,Capnograph
+49,Capnograph/Pulse Oximeter
+50,Capnostream
+51,Capnostream 10
+52,Capnostream 10Bedside Monitor
+53,Capnostream 20
+54,Capnostream 20bedside monitor
+55,Capnostream 2o
+56,Capnostream20
+57,Capnostream2O
+58,Capnostream2o
+59,Capnostream2op
+60,Capnostream@020p
+61,Capnostreaml
+62,Capnostreamlo
+63,Capnostreamn
+64,Capnostreamn20
+65,CapnostroaM
+66,Carbon Dioxide
+67,Carbon Dioxide Analyzer
+68,Center for Devices and Radiological Health
+69,Classes
+70,Classification
+71,Classification OQA
+72,Code of Federal Regulations
+73,Core Submission Classes
+74,DESCRIPTIONS
+75,DEVICE
+76,Data
+77,Data Properties
+78,DatatypeProperty
+79,Declaration
+80,Dental Devices
+81,Device Name
+82,Documentation
+83,Effectiveness
+84,EtCO2
+85,FDA
+86,Federal statutes and regulations
+87,Food and Drug Administration
+88,Food and Drug Administration9200
+89,General Hospital
+90,Har Hotzvim Science Park
+91,I
+92,I11SPECIAL-51O(k)
+93,INTENDED USE
+94,IP1
+95,IPI
+96,ISO
+97,ISO 14971
+98,ISO 9919
+99,Index
+100,Infection Control
+101,Integrated Pulmonary Index
+102,Internet address
+103,Israel
+104,Jerusalem
+105,M.B.A.
+106,MAY k 2 2010
+107,MXI
+108,Masimo
+109,Masimo Corporation
+110,Masimo MX1
+111,Masimo MX1 SpO2 board
+112,Masimo MXI
+113,Masimo Predicate Device
+114,Masimo Rainbow SET K080238
+115,Medical Device
+116,Medical Device Reporting
+117,MedicalDevice
+118,MedicalDevices/ResourcesforYou/Industry/default.htm
+119,MinMediCO 2EtCO2module
+120,MiniMediCO2
+121,Misbranding by reference to premarket notification
+122,Monitor
+123,Monitoring
+124,NUE
+125,O
+126,Object Properties
+127,ObjectProperty
+128,Ontology
+129,Oridion Medical
+130,Oridion Medical 1987 Limited
+131,Oridion Medical 1987 Ltd.
+132,Oridion Polaris 2004
+133,Over-The-Counter
+134,Over-The-Counter Use
+135,PREDICATE
+136,PREDICATE DEVICE
+137,Page
+138,Parameter
+139,Parameter Bedside Monitor
+140,Part 803
+141,Perfusion Index
+142,Pi monitoring
+143,Predicate Device Properties
+144,PredicateDevice
+145,Premarket Notification
+146,Prescription
+147,Prescription Use
+148,Prescription Use X AND/OR Over-The-Counter Use
+149,Public Health Service
+150,Pulmonary
+151,Pulmonary Index
+152,Pulse Oximeter
+153,QualitySystemDocumentation
+154,RS232
+155,Radiological Health
+156,Regulation
+157,Respiratory Rate
+158,SET
+159,SPECIAL-510(k)
+160,Safety
+161,Safety and Effectiveness
+162,Software
+163,Software testing
+164,SoftwareInformation
+165,SpCO/SpMetISpHb sensor
+166,SpO2
+167,SpO2(oxygen
+168,Sterility
+169,Sterility This device does not require
+170,Submission
+171,SubstantialEquivalenceDiscussion
+172,The Capnostream 20
+173,Title 21
+174,Two Parameter Bedside Monitor
+175,Two Parameter Monitor
+176,Verification
+177,[cite_start]The
+178,adaptive averaging
+179,adaptive averaging algorithm
+180,adult
+181,adulteration
+182,ahost device
+183,alarms
+184,algorithm
+185,anesthesiology
+186,argument
+187,arterial hemoglobin
+188,bedside monitor
+189,biocompatibility testing
+190,breath
+191,capnograph
+192,capnograph/pulse oximeter monitor
+193,carbon dioxide analyzer
+194,carboxyhemoglobin
+195,care
+196,cite_start]Information
+197,class
+198,clinical evaluation
+199,concernsDevice
+200,contract liability
+201,critical care
+202,critical care patient care
+203,device
+204,device adverse events
+205,device software
+206,devices
+207,end respiration rate
+208,entity
+209,equivalence
+210,functional oxygen saturation
+211,hardware
+212,hasPredicateKNumber
+213,hasTestType
+214,hazard
+215,hazard analysis
+216,health care
+217,heart rate
+218,hemoglobin
+219,hemoglobin concentration monitor
+220,host
+221,host device
+222,host monitor
+223,http://www.fda.gov/AboutFDA/CentersOffices/CDRH/CDR10iffices/ucm I15809.htr
+224,http://www.w3.org/1999/02/22-rdf-syntax-ns
+225,http://www.w3.org/2001/XMLSchema
+226,index value
+227,integrated pulmonary index
+228,intensive care medicine
+229,isoxygen saturation
+230,labeling
+231,lamp
+232,legally
+233,marketed device
+234,methemoglobin
+235,microMediCO2
+236,microMediCO2 002
+237,microMediCO2 C02
+238,miniMediC02
+239,minimedi0O2 C02
+240,misbranding
+241,misleading
+242,module
+243,monitor
+244,neonatal
+245,neonatal Intensive care
+246,neonatal anesthesiology
+247,neonatal care
+248,non- hemoglobin
+249,notification
+250,optimal
+251,owl
+252,oximeter monitor
+253,oxygen
+254,pediatric
+255,performance
+256,physicians
+257,predicate
+258,predicate device
+259,preset alarm thresholds
+260,pulse bar graph
+261,pulse oximeter monitor
+262,pulse oximetry
+263,pulse rate
+264,quality systems (QS) regulation
+265,range
+266,rdf
+267,rdfs
+268,real time
+269,respiration
+270,respiration rate
+271,respiration rate high
+272,respiration rate low
+273,risks
+274,sampling site
+275,sign monitoring
+276,software
+277,solenoid
+278,statements
+279,sterilization
+280,string
+281,summary of safety and effectiveness information
+282,tests
+283,trend summaries
+284,truthful
+285,type owl
+286,user requirements
+287,validate
+288,validation
+289,vital sign monitoring
+290,warranties
+291,waveform
+292,xsd

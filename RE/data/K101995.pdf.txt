@@ -1,0 +1,313 @@
+Traditional 510(k) Submission for CAPNOSTREAM®20p with Masimo MXI 5p02 Board 1i
+510(k) Summary of Safety and Effectiveness JAN 11 20"11
+Information
+This summary of safety and effectiveness information is being submitted in accordance
+with the requirements of 21 CFR 807.92
+(This section is not confidential)
+DATE THIS SUMMARY WAS PREPARED
+July 16't, 2010
+SUBMITTER'S NAME AND ESTABLISHMENT ADDRESS:
+Oridion Capnography Inc.
+160 Gould Street
+Needham, MA 02494
+ESTABLISHMENT REGISTRATION NUMBER
+3003941644
+CONTACT PERSON:
+Rachel Weissbrod, Director of Regulatory Affairs
+Oiridion Medical 1987 Ltd.
+Har Hotzvim Science Park
+POB 45025
+91450 Jerusalem, Israel
+Telephone: +972-2-589-9115
+Fax: +972-2-586-6680
+Email: rachel.weissbrod@oridion .com
+DEVICE INFORMATION
+Trade Name: Capnostream20p with Masimo MX1 SpO2 board.
+Common Name: Two Parameter Bedside Monitor
+Classification Name: Capnograph/Pulse Oximeter
+Regulation Number:
+868.1400, Carbon Dioxide Analyzer (Classification COK)
+870.2700 Pulse Oximeter (Classification DQA)
+Device Listing Number:
+Oridion Medical 1987 Ltd. 2
+Traditional 510(k) Submission for CAPN0STREAM®20p with Masimo MXI SpO2 Board
+PREDICATE DEVICE
+CapnostreamT 20 pwith SET parameters is substantially equivalent to the following
+commercially available devices:
+Manufacturer Device 510(k) No. Clearance Date
+Oridion 1957 Capnostream20 K094012 February 9, 2010
+Medical Ltd
+Masimo Corporation Masimo Rainbow SET K080238 May 12, 2008
+Radical 7 Pulse 00-
+Oximeter
+DEVICE DESCRIPTION
+The Capnostream2op bedside monitor is a two parameter monitor consisting of a
+microMediCO2 capnography module and/or a pulse oximetry module implemented in a
+host device. The host device displays parameters received from the respective modules
+and generates alarms when preset alarm thresholds are crossed. The device is
+classified as 00K Class 11 according to 21 CIFR § 868.1400 -Carbon Dioxide Analyzer
+with OQA 21 CFR § 870.2700 Pulse Oximeter listed as an additional or alternate
+classification.
+This device has two modules that are classified as follows:
+* 21 CFR 868.1400, Carbon Dioxide Analyzer (Classification 00K)
+* 21 CFR 870.2700 Pulse Oximeter (Classification OQA).
+Each module is controlled by dedicated software that is an integral part of the
+respective module. Each module provides parameters to the host software (the
+Capnostream2op device software) which then controls the display of the received
+parameter values and creates alarms when the values cross the preset thresholds.
+The microMediCO2 module provides the following inputs to the host monitor:
+FiCO2, EtCO2 numeric, EtCO2 waveform, Respiratory Rate, IPI (integrated
+Pulmonary Index).
+Oridion Medical 1987 Ltd. 3
+Traditional 510O(k) Submission for CAPNOSTREAM®20p with Masimo MXI Sp02 Board
+The Masimo MVX1 SpO2 module, integrated in the Capnostream2O p monitor presented
+in this submission, provides the following parameters to the host for display: SpO2
+(functional oxygen saturation of arterial hemoglobin), pulse rate, SpCO
+(carboxyhemoglobin saturation in blood), SpMet (methemoglobin saturation in blood)
+and SpHb (total hemoglobin concentration in blood).
+The host monitor will display this data to the user in numerics via a screen, and will
+also display the 002 waveform and SP02 (pleth) waveform or pulse bar graph.
+The three measurements will be available both real time and in trend summaries.
+In addition, the MVX1 board provides a Perfusion Index (Pl) indicating the relative
+pulsatile strength at the sampling site is provided to the host monitor for display.
+The host displays the Rainbow SET parameters values on the screen alongside the
+four IP1 (Integrated Pulmonary Index) parameters and the IPI value as presented on
+the predicate device.
+INTENDED USE
+The Capnostream®20p combined capnograph/pulse oximeter monitor and its
+accessories are intended to provide professionally trained health care providers with
+continuous, non-invasive measurement and monitoring of carbon dioxide concentration
+of the expired and inspired breath and respiration rate, and with continuous noninvasive
+monitoring of functional oxygen saturation of arterial hemoglobin (SpO2) and pulse rate.
+It is also indicated for continuous non-invasive monitoring of carboxyhemoglobin
+saturation (measured by an SpCO/SpMetISpHb sensor), methemoglobin saturation
+(measured by an SpCOfSpMetISpHb sensor) and total hemoglobin concentration
+(measured by an SpCO/SpMetISpHb sensor). It is intended for use with neonatal,
+pediatric, and adult patients in hospitals, hospital-type facilities, intra-hospital transport
+and home environments.
+The Capnostream@20p monitor provides the clinician with an integrated pulmonary
+index (IPI). The IP1 is based on four parameters provided by the monitor: end tidal
+carbon dioxide, respiration rate, oxygen saturation and. pulse rate. The IP1 is a single
+index of an adult or pediatric patient's ventilatory status displayed on a scale of 1 -10,
+Oridion Medical 1 987 Ltd. 4
+Traditional 510(k) Submission for CAPNOSTREAM020p with Masimo MX1 SpO2 Board
+where 10 indicates optimal pulmonary status. IP1 monitoring displays a single value that
+represents the patient's pulmonary parameters and alerts clinicians to changes in the
+patient's pulmonary status.
+The IP1 is an adjunct to, and is not intended to replace, vital sign monitoring.
+COMPARISON TO PREDICATE DEVICES
+The Capnostream20p with Masimo MX1 board is equivalent to the predicate
+Capnostream2O with microMediCO2 002 board with the exception of the addition of the
+three Rainbow SET parameters (SpCO, SpMET and Spl-b).
+The new device meets the safety and performance standards met by the predicate
+devices.
+Software testing was performed to validate the performance of the new monitor
+software and its substantial equivalence to the predicate device. The functional features
+and the intended use of Capnostream2op with Masimo MX1 board are substantially
+equivalent to the predicate devices.
+A hazard analysis was carried out on the Capnostream host monitor displaying the
+Rainbow SET values. This hazard analysis concluded that any residual risks were
+judged as acceptable when weighed against the intended benefits of use of the system.
+Attribute Capnostreamn2Op with.Masimo Predicate Device:
+MXI SpO2 board, software Capnostream Bedside
+version 6.1. Monitor with mnicroMediCO 2:
+K094012, software version
+5.6
+Indications for The Capnostream820p combined The Capnostream®D20p
+use capnograph/pulse oximeter monitor combined capnograph/pulse
+and its accessories are intended to oximeter monitor is intended to
+provide professionally trained health provide professionally trained
+care providers with continuous, non- health care providers with
+invasive measurement and continuous, non-invasive
+monitoring of carbon dioxide measurement and monitoring
+concentration of the expired and of carbon dioxide concentration
+inspired breath and respiration rate, of the expired and inspired
+and with continuous noninvasive breath and respiration rate, and
+monitoring of functional oxygen with continuous non-invasive
+saturation of arterial hemoglobin monitoring of functional oxygen
+Oridion Medical 1987 Ltd. 5
+Traditional 510O(k) Submission for CAPNOSTREAM®D20p with Masimo MXI SpO2 Board
+(SpO2) and pulse rate. It is also saturation of arterial
+indicated for continuous non- hemoglobin (SpO2) and pulse
+invasive monitoring of rate. It is intended for use with
+carboxyhemoglobin saturation neonatal, pediatric, and adult
+(measured by an patients in hospitals, hospital-
+SpCO/SpMetISpHb sensor), type facilities, intra-hospital
+methemoglobin saturation transport and home
+(measured by an environments.
+SpCO/SpMetISpHb sensor) and The Capnostream®20p
+total hemoglobin concentration monitor provides the clinician
+(measured by an with an integrated pulmonary
+SpCO/SpMetISpHb sensor). It is index (IPI). The IP1 is based
+intended for use with neonatal, on four parameters provided by
+pediatric, and adult patients in the monitor: end tidal carbon
+hospitals, hospital-type facilities, dioxide, respiration rate,
+intra-hospital transport and home oxgnstrinadpue
+environments, rate. The IP1 is a single index
+of an adult or pediatric patients
+The Capnostream®D20p monitor ventilatory status displayed on
+provides the clinician with anasclof1-0,wee0
+integrated pulmonary index (IP). indicates optimal pulmonary
+The IRI is based on four parameters status. IPI monitoring displays
+provided by the monitor: end tidal a single value that represents
+carbon dioxide, respiration rate, the patient's pulmonary
+oxygen saturation and pulse rate. parameters and alerts
+The RPI is a single index of an adult clinicians to changes in the
+or pediatric patient's ventilatory patient's pulmonary status.
+status displayed on a scale of 1 -The RPI is an adjunct to, and is
+10, where 10 indicates optimal not intended to replace, vital
+pulmonary status. IPI monitoring sign monitoring.
+displays a single value that
+represents the patient's pulmonary
+parameters and alerts clinicians to
+changes in the patient's pulmonary
+status.
+The IP1 is an adjunct to, and is not
+intended to replace, vital sign
+monitoring.
+Oridion Medical 1987 Ltd. 6
+Traditional 510(k) Submission for CAPNOSTREAM®20p with Masimo MXI 5p02 Board
+Target Identical It is intended for use with
+population neonatal, pediatric, and adult
+patients
+Design Equivalent to the Capnostream2o See K094012.
+described in K094012
+Where Used It is to be used by physicians, It is to be used by physicians,
+nurses and other trained health care nurses and other trained health
+providers in critical care patient care providers in critical care
+settings, such as anesthesiology, patient settings, such as
+intensive care medicine, neonatal anesthesiology, intensive care
+intensive care and other health care medicine, neonatal intensive
+areas. care and other health care
+areas.
+Performance IS0 21647 IS0 21647
+Standards ISO09919 ISO09919
+Safety IEC/EN 60601-1 lEO/EN 60601-1
+Standards lEO/EN 60601-1-2 lEO/EN 60601-1-2
+lEO 60601-1-8 lEO 60601-1-8
+ISO014971 U L 60601 -1
+EN 980 ISO014971
+EN 980
+Biocompatibility There are no issues of There are no issues of
+biocompatibility for this device and biocompatibility for this device
+no biocompatibility testing was and no biocompatibility testing
+___________performed. was performed.
+Sterility This device does not require This device does not require
+_____________ sterilization sterilization
+The Capnostream2op with Masimo MX1 SpO2 board enables the measurement of
+three additional parameters, which are available in the predicate device MASIMO
+RAINBOW SET RADICAL 7 PULSE CO-OXIMETER (K080238):
+" SpOO: carboxyhemoglobin saturation in bl 'ood
+* SpMet: methemoglobin saturation in blood
+* SpHb: total hemoglobin concentration in blood
+These parameters have been clinically validated by Masimo Corporation.
+Oridion Medical 1987 Ltd. 7
+Traditional 510(k) Submission for CAPNOSTREAM®20p with Masimo MX1 Sp02 Board
+CONCLUSION
+Capnostreamn2Op with Masimno MX1 SpO2 board functionality does not raise any new
+potential safety risks and is equivalent in performance to the existing legally marketed
+devices.
+Therefore, the device is substantially equivalent to the predicate devices with respect to
+safety, effectiveness, and intended use.
+Oridion Medical 1987 Ltd. 8
+DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Food and Drug Administation
+10903 Newv Hamipshire Avenue
+Document Control Room -W066-G609
+Silver Spring, MID 20993-0002
+Ms. Rachel Weissbrod
+Director of Regulatory Affairs
+Oridion Capnography, Incorporated
+160 Gould Street
+Needham Heights, Massachusetts 02494 JN11c
+Re: K101995
+Trade/Device Name: Capnostream2op
+Regulation Number: 21 CER 870.2700
+Regulation Name: Oximeter
+Regulatory Class: 11
+Product Code: DQA, CCK76
+Dated: January 4, 2011
+Received: January 7, 2011
+Dear Ms. Weissbrod:
+We have reviewed your Section 5 10(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the
+indications for use stated in the enclosure) to legally marketed predicate devices marketed in
+interstate commerce prior to May 28, 1976, the enactment date of the Medical Device
+Amendments, or to devices that have been reclassified in accordance with the provisions of
+the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. The general controls provisions of the Act include
+requirements for annual registration, listing of devices, good manufacturing practice,
+labeling, and prohibitions against misbranding and adulteration. Please note: CDR- does
+not evaluate information related to contract liability warranties. We remind you, however,
+that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class 11 (Special Controls) or class ILL
+(PMA), it may be subject to additional controls. Existing major regulations affecting your
+device can be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In
+addition, FDA may publish further announcements concerning your device in the Federal
+Register.
+Page 2- Ms. Weissbrod
+Please be advised that FDA's issuance of a substantial equivalence determination does not
+mean that FDA has made a determination that your device complies with other requirements
+of the Act or any Federal statutes and regulations administered by other Federal agencies.
+You must comply with all the Act's requirements, including, but not limited to: registration
+and listing (2 1 CER Part 807); labeling (21 CFR Part 801); medical device reporting
+(reporting of medical device-related adverse events) (21 CFR 803); good manufacturing
+practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820);
+and if applicable, the electronic product radiation control provisions (Sections 53 1 -542 of'
+the Act); 21 CER 1000- 1050.
+If you desire specific advice for your device on our labeling regulation (21 CER Part 80 1),
+please go to
+http://www.fda.gov/AboutFDA/CentersOffices/CDRH/CDR10iffices/ucm I15809.htr-n for
+the Center for Devices and Radiological Health's (CDRI's) Office of Compliance. Also,
+please note the regulation entitled, "Misbranding by reference to premarket notification"
+(2I1CFR Part 807.97). For questions regarding the reporting of adverse events under the
+MDR regulation (21 CFR Part 803), please go to
+http://wwiv.fdagkov/MedicalDevices/Safetv/ReportaProbleim/defatilt.htm for the CDRH's
+Office of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free
+number (800) 638-2041 or (301) 796-7100 or at its Internet address
+http://www.fda.gov/Medical Devices/Resourcesf'orYou/lndustry/default.htm.
+Sincerely yours,
+Anthony D. Watson, B.S., M.S., M.B.A.
+Director
+Division of Anesthesiology, General Hospital,
+Infection Control and Dental Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+Enclosure
+Traditional 510(k) Submission for CAPNOSTREAM020p with Masimo MXI Sp02 Board
+Statement of Indications for Use
+CAPNOSTREAM@20p with Masimo MXI SpO2 Board
+(This document is not confidential)
+Indications for Use
+November 24, 2010
+510(k) Number (if known): K1 01 995
+Device Name: Capnostream20p
+Indications for Use:
+The Capnostream@20p combined capnograph/pulse oximeter monitor and its accessories are
+intended to provide professionally trained health care providers with continuous, non-invasive
+measurement and monitoring of carbon dioxide concentration of the expired and inspired breath
+and respiration rate, and with continuous noninvasive monitoring of functional oxygen saturation
+of arterial hemoglobin (SpO2) and pulse rate. It is also indicated for continuous non-invasive
+monitoring of carboxyhemoglobin saturation (measured by an SpCO/SpMetISpHb sensor),
+methemoglobin saturation (measured by an SpCO/SpMetISpHb sensor) and total hemoglobin
+concentration (measured by an SpCO/SpMetISpHb sensor). It is intended for use with neonatal,
+pediatric, and adult patients in hospitals, hospital-type facilities, intra-hospital transport and
+home environments.
+The Capnostream@020p monitor provides the clinician with an integrated pulmonary index (IPI).
+The IP1 is based on four parameters provided by the monitor: end tidal carbon dioxide,
+respiration rate, oxygen saturation and pulse rate. The IP1 is a single index of an adult or
+pediatric patient's ventilatory status displayed on a scale of 1 -10, where 10 indicates optimal
+pulmonary status. IP1 monitoring displays a single value that represents the patient's pulmonary
+parameters and alerts clinicians to changes in the patient's pulmonary status.
+The IP1 is an adjunct to, and is not intended to replace, vital sign monitoring.
+Prescription Use X AND/OR Over-The-Counter Use _____
+(Per 21 CFR 801 Subpart 0) (21 CFR 801 Subpart C)
+PLEASE DO NOT WRITE BELOW THIS LINE -CONT NUE ON ANOTHI R P AGE IF
+NEEDED)
+Divisionl C, AneStlesiOI0glV General
+IntectioP Conwrui yenta' Devices
+Oridion Medical 1987 Ltd. 510 (k) Number: [C 10 / 1 C St
