@@ -1,0 +1,38 @@
+subject,predicate,object,source_documents,intext_evidence,timestamp
+Submission:K060065,hasKNumber,K060065,K060065_p01.txt,K060065,
+Submission:K060065,CONCERNSDEVICE,MedicalDevice:K060065,K060065_p01.txt,see DEVICE INFORMATION block,
+MedicalDevice:K060065,hasTradeName,Capnostream 2o,K060065_p06.txt,Capnostream 2o,
+MedicalDevice:K060065,hasRegulationNumber,868.1400,K060065_p02.txt,868.1400,
+MedicalDevice:K060065,hasRegulationNumber,870.2700,K060065_p02.txt,870.2700,
+MedicalDevice:K060065,hasDeviceClass,Class II,K060065_p02.txt,Class II,
+Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K050844,K060065_p02.txt,K050844,
+Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K051608,K060065_p02.txt,K051608,
+Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K012891,K060065_p02.txt,K012891,
+Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K021090,K060065_p02.txt,K021090,
+Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K022084,K060065_p02.txt,K022084,
+MedicalDevice:K060065,hasIndicationsForUseText,"use for the two parameter  bedside  monitor:
+
+Confidential
+
+Capnostream 20
+1.  The  MiniMediCO2 EtCO 2 Module:
+Is intended  for  installation  in host devices  that:  are  used  by  physicians,  nurses  and  other
+trained  health  care  providers  in critical  care  patient  settings,  such  as anesthesiology,
+intensive  care medicine,  neonatal  Intensive  care and  other  health  care areas where  non
+invasive  measurement  of expired  C02 and  inspired  C02 are  of  medical  value.  It
+continuously  and  non  invasively  measures  and  monitors  carbon  dioxide  concentration  of the
+expired  and  inspired  breath  and  respiration  rate.  This  module  is  designed  to  be  installed  in a
+host device,  in this case  the two  Parameter  Bedside  Monitor,  that  is for  prescription  use
+only.
+
+2.  The  MP100  Oximetry  Module
+Is indicated  for the continuous  non-invasive  monitoring  of functional  oxygen  saturation  of
+arterial  ",K060065_p04.txt,"use for the two parameter  bedside  monitor:
+
+Confidential
+
+Capnostream 20
+1.  The  MiniMediCO2 EtCO 2 Module:
+Is intended  for  installation  in host devices  that:  are  used  by  physicians,  nurse",
+MedicalDevice:K060065,hasProductCode,DQA,projectA_meddevice_KG/data/texts/pages/K060065_p06.txt,"Product  Code:  DQA Dated:  April  6,  2006",2025-11-12T18:26:29Z
+MedicalDevice:K060065,hasApplicant,Oridion Capnography  Inc,projectA_meddevice_KG/data/texts/pages/K060065_p01.txt,Oridion Capnography  Inc,2025-11-12T18:28:39+00:00
