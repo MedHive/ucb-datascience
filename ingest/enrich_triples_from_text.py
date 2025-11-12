@@ -26,25 +26,52 @@ def now_iso():
 def add_row(rows, s,p,o,src,ev):
     rows.append({"subject":s,"predicate":p,"object":o,"source_documents":src,"intext_evidence":ev,"timestamp":now_iso()})
 
+BLACKLIST = re.compile(r"\b(ESTABLISHMENT|ADDRESS|DIVISION|MANUFACTURERS|ASSISTANCE|TOLL[- ]?FREE|NUMBER|PHONE|FAX)\b", re.I)
+ORG_SUFFIX = r"(?:Inc\.?|Incorporated|Corporation|Corp\.?|Ltd\.?|LLC|GmbH|S\.?A\.?|Pte\. Ltd\.?)"
+
+def clean_candidate(s):
+    s = re.sub(r"\s{2,}", " ", s).strip()
+    s = re.sub(r"[,;.]$", "", s).strip()
+    return s
+
+def extract_org_from_text(txt):
+    m = re.search(rf"([A-Z][A-Za-z0-9&().\- ]{{2,}}?\s{ORG_SUFFIX})", txt)
+    if m:
+        cand = clean_candidate(m.group(1))
+        if cand and not BLACKLIST.search(cand):
+            return cand
+    head = re.split(r"\s\d{2,}|\s[A-Z]{2}\s?\d{5}", txt)[0]
+    head = clean_candidate(head)
+    if head and not BLACKLIST.search(head) and len(head) >= 3:
+        return head
+    return None
+
 def first_applicant(blocks):
-    lab = re.compile(r"\b(Applicant|Submitter|Submitter's Name|Manufacturer|Company|Owner)\b", re.I)
+    header = re.compile(r"SUBMITTER'?S\s+NAME\s+AND\s+ESTABLISHMENT\s+ADDRESS", re.I)
+    for src, txt in blocks:
+        lines = txt.splitlines()
+        for i, line in enumerate(lines):
+            if header.search(line):
+                window = " ".join(lines[i:i+4])
+                org = extract_org_from_text(window)
+                if org:
+                    return src, window.strip(), org
+    lab = re.compile(r"\b(Applicant|Submitter|Manufacturer|Company|Owner)\b", re.I)
     for src, txt in blocks:
         lines = txt.splitlines()
         for i, line in enumerate(lines):
             if lab.search(line):
-                window = " ".join(lines[i:i+4])
-                m = re.search(r"(Applicant|Submitter|Submitter's Name|Manufacturer|Company|Owner)[^:]{0,20}[:\-]?\s*([A-Za-z0-9&().,\- ]{3,})", window, re.I)
-                if m:
-                    val = m.group(2).strip()
-                    val = re.sub(r"\s{2,}.*$", "", val)
-                    val = re.sub(r"[,;.]$", "", val)
-                    if len(val) >= 3:
-                        return src, window.strip(), val
-    comp = re.compile(r"\b([A-Z][A-Za-z0-9&.\- ]{2,}?(?:Inc\.?|Incorporated|Ltd\.?|LLC|Corp\.?))\b")
+                window = " ".join(lines[i:i+3])
+                org = extract_org_from_text(window)
+                if org:
+                    return src, window.strip(), org
+    comp = re.compile(rf"\b([A-Z][A-Za-z0-9&.\- ]{{2,}}?\s{ORG_SUFFIX})\b")
     for src, txt in blocks:
         m = comp.search(txt)
         if m:
-            return src, m.group(0), m.group(0)
+            org = clean_candidate(m.group(1))
+            if org and not BLACKLIST.search(org):
+                return src, m.group(0), org
     return None, None, None
 
 def product_codes(blocks):
