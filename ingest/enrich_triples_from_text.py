@@ -14,17 +14,42 @@ def read_text_blocks(pages_dir, knum):
 
 def load_triples(path):
     df = pd.read_csv(path, dtype=str).fillna("")
-    need = ["subject","predicate","object","source_documents","intext_evidence","timestamp"]
-    for c in need:
-        if c not in df.columns:
-            df[c] = ""
+    if "timestamp" in df.columns:
+        if "creation_timestamp" not in df.columns:
+            df["creation_timestamp"] = df["timestamp"]
+        if "last_updated_timestamp" not in df.columns:
+            df["last_updated_timestamp"] = df["timestamp"]
+    if "creation_timestamp" not in df.columns:
+        df["creation_timestamp"] = ""
+    if "last_updated_timestamp" not in df.columns:
+        df["last_updated_timestamp"] = ""
+    need = [
+        "subject",
+        "predicate",
+        "object",
+        "source_documents",
+        "intext_evidence",
+        "creation_timestamp",
+        "last_updated_timestamp",
+    ]
     return df[need]
 
 def now_iso():
     return datetime.datetime.now(datetime.UTC).replace(microsecond=0).isoformat()
 
-def add_row(rows, s,p,o,src,ev):
-    rows.append({"subject":s,"predicate":p,"object":o,"source_documents":src,"intext_evidence":ev,"timestamp":now_iso()})
+def add_row(rows, s, p, o, src, ev):
+    now = now_iso()
+    rows.append(
+        {
+            "subject": s,
+            "predicate": p,
+            "object": o,
+            "source_documents": src,
+            "intext_evidence": ev,
+            "creation_timestamp": now,
+            "last_updated_timestamp": now,
+        }
+    )
 
 BLACKLIST = re.compile(r"\b(ESTABLISHMENT|ADDRESS|DIVISION|MANUFACTURERS|ASSISTANCE|TOLL[- ]?FREE|NUMBER|PHONE|FAX)\b", re.I)
 ORG_SUFFIX = r"(?:Inc\.?|Incorporated|Corporation|Corp\.?|Ltd\.?|LLC|GmbH|S\.?A\.?|Pte\. Ltd\.?)"
@@ -129,7 +154,17 @@ def main():
         add_row(rows, s_md, "hasProductCode", code, src or "", ev or "")
     for src, ev, kpred in predicate_ks(blocks):
         add_row(rows, s_sub, "HASPREDICATEDEVICE", f"Submission:{kpred}", src or "", ev or "")
-    out = pd.DataFrame(rows).drop_duplicates(subset=["subject","predicate","object"])
+    out = pd.DataFrame(rows)
+    cols = [
+        "subject",
+        "predicate",
+        "object",
+        "source_documents",
+        "intext_evidence",
+        "creation_timestamp",
+        "last_updated_timestamp",
+    ]
+    out = out[cols].drop_duplicates(subset=["subject", "predicate", "object"])
     out.to_csv(args.out, index=False)
 
 if __name__ == "__main__":

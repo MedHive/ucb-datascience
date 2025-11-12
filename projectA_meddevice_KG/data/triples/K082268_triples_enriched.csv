@@ -1,0 +1,47 @@
+subject,predicate,object,source_documents,intext_evidence,creation_timestamp,last_updated_timestamp
+Submission:K082268,hasKNumber,K082268,K082268_p01.txt,K082268,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+Submission:K082268,CONCERNSDEVICE,MedicalDevice:K082268,K082268_p01.txt,see DEVICE INFORMATION block,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+MedicalDevice:K082268,hasTradeName,Capnostream 20 with Integrated Pulmonary Index,K082268_p01.txt,Capnostream 20 with Integrated Pulmonary Index,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+MedicalDevice:K082268,hasCommonName,Two Parameter Bedside Monitor,K082268_p01.txt,Two Parameter Bedside Monitor,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+MedicalDevice:K082268,hasProductCode,COK,K082268_p01.txt,COK,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+MedicalDevice:K082268,hasProductCode,DQA,K082268_p01.txt,DQA,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+MedicalDevice:K082268,hasProductCode,CCK,K082268_p02.txt,CCK,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+MedicalDevice:K082268,hasRegulationNumber,868.1400,K082268_p01.txt,868.1400,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+MedicalDevice:K082268,hasRegulationNumber,807.92,K082268_p01.txt,807.92,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+MedicalDevice:K082268,hasRegulationNumber,870.2700,K082268_p02.txt,870.2700,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+MedicalDevice:K082268,hasDeviceClass,Class II,K082268_p01.txt,Class II,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+Submission:K082268,HASAPPLICANT,Applicant:Oridion Capnography Inc,K082268_p01.txt,Oridion Capnography Inc,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+Submission:K082268,HASPREDICATEDEVICE,PredicateDevice:K072295,K082268_p02.txt,K072295,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+MedicalDevice:K082268,hasIndicationsForUseText,"capnograph/pulse  oximeter  monitor  is
+indications  for  use  in the  predicate  device 
+intended  to  provide  professionally
+with  the  addition  of the  following: 
+trained  health  care  providers  the
+The  Capnostream  20  monitor provides 
+continuous,  non  invasive
+the  clinician  with  an  integrated  pulmonary  measurement  and  monitoring  of
+index (IPI).  The  IPI  is based  on four 
+parameters  provided  by the  monitor:  end 
+tidal  carbon  dioxide,  respiration  rate, 
+
+carbon  dioxide  concentration  of the
+expired  and  inspired  breath  and
+respiration  rate,  and for the  continuous
+non-invasive monitoring  of functional
+oxygen  saturation  of arterial
+Ihemoglobin  (Sp0 2 and  pulse  rate).  It is
+
+intended  for use  with  neonatal,
+pediatric  and adult  patients  in
+hospitals,  hospital  type  facilities,  intra
+hospital  transport  and  home
+
+environments.
+
+oxygen  saturation  and  heart  rate.  The  IPI 
+is a  sing",K082268_p01.txt,"capnograph/pulse  oximeter  monitor  is
+indications  for  use  in the  predicate  device 
+intended  to  provide  professionally
+with  the  addition  of the  following: 
+trained  health  care  provider",2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+MedicalDevice:K082268,hasApplicant,Oridion Capnography Inc,projectA_meddevice_KG/data/texts/pages/K082268_p01.txt,SUBMITTER'S  NAME  AND  ESTABLISHMENT  ADDRESS:  Oridion  Capnography  Inc. 160  Gould  Street,2025-11-12T22:18:19+00:00,2025-11-12T22:18:19+00:00
