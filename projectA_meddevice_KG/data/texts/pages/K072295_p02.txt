@@ -1,0 +1,59 @@
+SPECIAL-CAPNOSTREAM20-Two  Parameter  Monitor  With  A2  Software 
+
+CONFIDENTIAL
+
+PREDICATE  DEVICE
+
+Capnostream20 with  the  new  miniMediCO 2 module  adaptive  averaging  (A2)  software  is
+substantially equivalent  to the following  commercially  available  device:
+
+Manufacturer 
+
+Device 
+
+Oridion  1987  Medical  Capnostream 20
+Ltd
+
+510(k)No. 
+
+K060065 
+
+Clearance Date
+
+May  4th,  2006
+
+DEVICE  DESCRIPTION
+
+The  Capnostream 20 bedside  monitor  is a  two  parameter  monitor  consisting  of a
+miniMediCO 2 capnography  module  and  a pulse  oximetry  module  implemented  in a  host
+device.  The  host  device  displays  parameters  received  from  the  respective  modules  and
+generates  alarms when  preset  alarm thresholds  are crossed.  The  device  is classified  as
+CCK  Class  II according  to 21  CFR  § 868.1400  - Carbon  Dioxide  Analyzer.
+
+This  device  has  two  modules  that are  classified  as follows:
+
+* 
+
+21  CFR  868.1400,  Carbon  Dioxide Analyzer  (Classification  CCK)
+
+*  21  CFR870.2700  Pulse Oximeter  (Classification  DQA)
+
+Each  module  is controlled  by  dedicated  software  that is an  integral  part  of the
+respective  module.  Each  module  provides  parameters  to  the host software  (the
+Capnostream 20 device  software)  which  then  controls  the  display  of the  received
+parameter  values  and  creates  alarms  when the  values  cross the  preset thresholds.
+The  miniMediCO 2 capnography  module  software  presented  in this  submission
+includes  an  adaptive  averaging  algorithm  defined  as the  A2 Algorithm  for  calculating
+the  respiration  rate  from  the  C02 waveform  introduced  in software version  2.31  of  the
+miniMediCO 2 capnography  module  software.  The  calculated  respiration  rate
+parameter  is then  provided  to the  host  (the  Capnostream 20 device  software).  The  host
+makes  no  modification  to  the values  received  from  the module.  The  host triggers  an
+alarm  when  the  respiration  rate  high  or  respiration  rate  low thresholds  have  been
+crossed.  The  algorithm  employed  in the  respiration  rate  calculation  reduces false
+positive  alarms  by filtering  out  noise  and  instantaneous  fluctuations  without  missing
+true  alarms that  may  indicate  a clinically  significant  change  to  respiration  rate.  By
+
+Oridion  Medical  1987  Ltd. 
+
+13
+

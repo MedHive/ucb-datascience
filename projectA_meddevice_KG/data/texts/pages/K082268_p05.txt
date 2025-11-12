@@ -1,0 +1,98 @@
+intended  for use  with  neonatal,
+pediatric  and adult  patients  in
+hospitals,  hospital  type  facilities,  intra
+hospital  transport  and  home
+
+environments.
+
+oxygen  saturation  and  heart  rate.  The  IPI 
+is a  single  index  of an  adult  or  pediatric 
+patient's  ventilatory  status  displayed  on  a 
+scale  of 1 - 10,  where  10  indicates 
+optimal  pulmonary  status.  IPI  monitoring
+displays  a  single  value that  represents
+the  patient's  pulmonary  parameters  and
+alerts  clinicians  to changes  in the
+
+patient's  pulmonary  status.
+
+The  IPI  is an  adjunct  to,  and  is not
+intended  to  replace,  vital  sign  monitoring.
+
+Target 
+population 
+
+Design 
+
+Where  Used 
+
+It is intended  for use  with  neonatal, 
+pediatric,  and  adult  patients. 
+
+It is intended  for  use  with  neonatal,
+pediatric,  and  adult  patients.
+
+Identical  to  the Capnostream  20 
+described  in K072295 with  the  exception
+of the  software-changes  in both  the
+EtCO2  module  and  host  monitor
+described  in this submission
+
+See  K072295
+
+It is to  be  used  by  physicians,  nurses  and 
+other trained  health  care  providers  in 
+critical  care  patient  settings,  such  as 
+anesthesiology,  intensive  care  medicine, 
+neonatal  intensive  care  and  other  health 
+care areas 
+
+It is to  be  used  by  physicians,  nurses
+and  other  trained  health  care  providers
+in critical  care  patient  settings,  such as
+anesthesiology,  intensive  care
+medicine,  neonatal  Intensive  care  and
+other  health  care  areas
+
+Performance 
+Standards 
+
+ISO  21647 
+ISO  9919 
+
+ISO  21647
+ISO  9919
+
+Safety 
+Standards 
+
+IEC/EN  60601-1 
+IEC/EN  60601-1-2(2001) 
+
+lEC/EN  60601-1
+IEC/EN  60601-1-2(2001)
+
+IEC  60601-1-8 
+UL  60601-1 
+ISO  14971 
+
+IEC  60601-1-8
+UL  60601 -1
+ISO  14971
+
+Biocompatibility  There  are  no  issues  of  biocompatibility  for  There  are  no  issues  of biocompatibility
+for this  device  and  no  biocompatibility
+testing  was  done.
+
+this  device  and  no  biocompatibility  testing 
+was  done. 
+
+Sterility 
+
+This  device  does  not require  sterilization 
+and  is shipped  marked  non-sterile. 
+
+This  device  does  not  require
+sterilization  and  is shipped  marked
+non-sterile.
+

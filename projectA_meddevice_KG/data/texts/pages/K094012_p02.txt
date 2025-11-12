@@ -57,3 +57,4 @@ pediatric  patient's  ventilatory status  displayed on  a scale of 1 - 1 0, wher
 optimal  pulmonary status.  [Pi  monitoring  displays a single value  that represents  the
 
 Page  I11
+
