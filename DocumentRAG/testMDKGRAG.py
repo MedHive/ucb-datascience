@@ -682,7 +682,7 @@ Context:
             ("user", "{question}")
         ])
 
-    def query(self, question: str, top_k: int = 5) -> Dict[str, Any]:
+    def query(self, question: str, top_k: int = 5, include_context_tags: bool = True) -> Dict[str, Any]:
         """
         Execute improved GraphRAG query pipeline:
         1. Retrieve using Neo4j vector index + graph traversal
@@ -710,9 +710,18 @@ Context:
             "question": question
         })
 
+        # Add context tags for hallucination evaluation
+        answer_text = response.content
+        if include_context_tags and retrieved:
+            # Create inline context summary
+            context_summary = self._create_context_summary(retrieved)
+            answer_with_context = f"{answer_text} <Context>{context_summary}</Context>"
+        else:
+            answer_with_context = answer_text
+
         return {
             "question": question,
-            "answer": response.content,
+            "answer": answer_with_context,
             "context": retrieved,
             "retrieval_strategy": self.retrieval_strategy
         }
@@ -748,6 +757,35 @@ Context:
             formatted.append("")
 
         return "\n".join(formatted)
+
+    def _create_context_summary(self, retrieved: List[Dict]) -> str:
+        """Create a concise context summary for inline context tags"""
+        if not retrieved:
+            return "No source context available"
+
+        # Summarize sources
+        num_chunks = len(retrieved)
+        avg_score = sum(item.get("score", 0.0) for item in retrieved) / num_chunks if num_chunks > 0 else 0.0
+
+        # Extract unique entities across all chunks
+        all_entities = set()
+        for item in retrieved:
+            entities = item.get("entities", [])
+            all_entities.update([e for e in entities if e])
+
+        entity_str = f", mentioning entities: {', '.join(list(all_entities)[:5])}" if all_entities else ""
+
+        # Get chunk IDs
+        chunk_ids = [item.get("chunk_id", "unknown") for item in retrieved]
+
+        context_summary = (
+            f"Retrieved from {num_chunks} knowledge graph chunks "
+            f"(avg relevance: {avg_score:.2f}){entity_str}. "
+            f"Source chunks: {', '.join(chunk_ids[:3])}"
+            + ("..." if len(chunk_ids) > 3 else "")
+        )
+
+        return context_summary
 
     def format_sources(self, retrieved: List[Dict]) -> str:
         """Format source citations for display to user"""
