@@ -15,8 +15,18 @@ def parse_token(tok):
     return norm_label(a.strip()), b.strip()
 
 def is_node_token(tok):
-    if tok is None: return False
-    return ':' in str(tok) and parse_token(tok)[1] is not None
+    if tok is None:
+        return False
+    s = str(tok)
+    if ':' not in s:
+        return False
+    return (
+        s.startswith('Submission:')
+        or s.startswith('Device:')
+        or s.startswith('Predicate:')
+        or s.startswith('Applicant:')
+    )
+
 
 def rel_type_from_pred(pred):
     return re.sub(r'[^A-Za-z0-9]','_', str(pred)).upper()
