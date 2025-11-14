@@ -1,0 +1,110 @@
+SPECIAL-CAPNOSTREAM20-Two  Parameter  Monitor With  A2  Software 
+
+CONFIDENTIAL
+
+monitoring  of carbon  dioxide  concentration  of the
+expired  and  inspired  breath  and  respiration  rate,
+and  for the  continuous  non-invasive  monitoring  of
+functional  oxygen  saturation  of arterial
+hemoglobin  (Sp0 2 and  pulse  rate).  It is intended
+for  use with  neonatal,  pediatric  and  adult  patients
+in hospitals,  hospital  type  facilities,  intra  hospital
+transport  and  home  environments.
+
+Target 
+population 
+
+Design 
+
+Where  Used 
+
+It is intended  for  use  with  neonatal, 
+pediatric, and  adult  patients. 
+
+It is intended  for  use with  neonatal,  pediatric,  and
+adult patients.
+
+Identical  to  MiniMediCO 2 module  in  See  K060065
+K060065  with  the exception  of
+software  version  change  from  2.20
+to 2.31
+
+It is to  be  used  by  physicians, 
+nurses  and  other trained  health 
+care  providers  in critical  care 
+patient settings,  such  as 
+anesthesiology,  intensive  care 
+medicine,  neonatal  Intensive  care
+and  other  health  care  areas
+
+It is to  be used  by  physicians,  nurses and  other
+trained  health  care  providers  in critical  care
+patient  settings,  such  as anesthesiology,
+intensive  care  medicine,  neonatal  Intensive  care
+and  other  health  care  areas
+
+Performance 
+Standards 
+
+IS021647 
+ISO  9919 
+
+IS021647
+ISO  9919
+
+Safety 
+Standards
+
+IEC/EN60601-1 
+
+IEC/EN60601-1
+
+IEC/EN60601-1-2(2001) 
+
+IEC/EN60601-1-2(2001)
+
+IEC60601-1-8 
+
+UL60601-1 
+
+ISO  14971 
+
+IEC60601-1-8
+
+UL60601-1
+
+ISO  14971
+
+Biocompatibility 
+
+Sterility 
+
+There  are  no  issues  of 
+biocompatibility  for this device  and 
+no biocompatibility  testing  was
+done.
+
+This  device  does  not  require 
+sterilization  and  is shipped  marked 
+non-sterile.
+
+There  are  no  issues of  biocompatibility  for this
+device  and  no  biocompatibility  testing  was  done.
+
+This  device  does  not  require  sterilization  and  is
+shipped  marked  non-sterile.
+
+CONCLUSION
+
+Capnostream 20 with  adaptive  averaging  software  does  not  raise  any  new  potential  safety
+
+risks  and  is  equivalent  in performance  to the  existing  legally  marketed  device.  Therefore,
+
+the  device  is  substantially  equivalent  to the  predicate  device  with  respect  to  safety
+
+effectiveness,  and  intended  use.
+
+Oridion  Medical  1987  Ltd. 
+
+18
+

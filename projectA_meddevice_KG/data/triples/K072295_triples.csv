@@ -1,0 +1,56 @@
+subject,predicate,object,source_documents,intext_evidence,timestamp
+Submission:K072295,hasKNumber,K072295,K072295_p01.txt,K072295,
+Submission:K072295,CONCERNSDEVICE,MedicalDevice:K072295,K072295_p01.txt,see DEVICE INFORMATION block,
+MedicalDevice:K072295,hasTradeName,Capnostream 20 with A 2 software,K072295_p01.txt,Capnostream 20 with A 2 software,
+MedicalDevice:K072295,hasCommonName,Two Parameter Bedside Monitor,K072295_p01.txt,Two Parameter Bedside Monitor,
+MedicalDevice:K072295,hasProductCode,CCK,K072295_p01.txt,CCK,
+MedicalDevice:K072295,hasProductCode,DQA,K072295_p01.txt,DQA,
+MedicalDevice:K072295,hasRegulationNumber,868.1400,K072295_p01.txt,868.1400,
+MedicalDevice:K072295,hasRegulationNumber,870.2700,K072295_p02.txt,870.2700,
+MedicalDevice:K072295,hasDeviceClass,Class II,K072295_p01.txt,Class II,
+Submission:K072295,HASAPPLICANT,Applicant:Oridion Capnography Inc,K072295_p01.txt,Oridion Capnography Inc,
+Submission:K072295,HASPREDICATEDEVICE,PredicateDevice:K060065,K072295_p02.txt,K060065,
+MedicalDevice:K072295,hasIndicationsForUseText,"to  the  indications  for  use  in the 
+predicate  device 
+
+oximeter  monitor  is intended  to  provide
+professionally  trained  health  care  providers  the
+continuous,  non  invasive  measurement  and
+
+14
+
+SPECIAL-CAPNOSTREAM20-Two  Parameter  Monitor With  A2  Software 
+
+CONFIDENTIAL
+
+monitoring  of carbon  dioxide  concentration  of the
+expired  and  inspired  breath  and  respiration  rate,
+and  for the  continuous  non-invasive  monitoring  of
+functional  oxygen  saturation  of arterial
+hemoglobin  (Sp0 2 and  pulse  rate).  It is intended
+for  use with  neonatal,  pediatric  and  adult  patients
+in hospitals,  hospital  type  facilities,  intra  hospital
+transport  and  home  environments.
+
+Target 
+population 
+
+Design 
+
+Where  Used 
+
+It is intended  for  use  with  neonatal, 
+pediatric, and  adult  patients. 
+
+It is intended  for  use with  neonatal,  pediatric,  and
+adult patients.
+
+Identical  to  MiniMediCO 2 module  in  See  K",K072295_p01.txt,"to  the  indications  for  use  in the 
+predicate  device 
+
+oximeter  monitor  is intended  to  provide
+professionally  trained  health  care  providers  the
+continuous,  non  invasive  measurement  a",
+MedicalDevice:K072295,hasApplicant,LISHMENT,projectA_meddevice_KG/data/texts/pages/K072295_p01.txt,SUBMITTER'S  NAME  AND  ESTABLISHMENT  ADDRESS:  Oridion  Capnography  Inc. 160  Gould  Street,2025-11-12T18:50:15+00:00
+MedicalDevice:K072295,hasApplicant,number  (800),projectA_meddevice_KG/data/texts/pages/K072295_p06.txt,"Division  of Small  Manufacturers,  International  and  Consumer  Assistance  at  its  toll-free",2025-11-12T21:19:24+00:00
+MedicalDevice:K072295,hasApplicant,Oridion Capnography Inc,projectA_meddevice_KG/data/texts/pages/K072295_p01.txt,SUBMITTER'S  NAME  AND  ESTABLISHMENT  ADDRESS:  Oridion  Capnography  Inc. 160  Gould  Street,2025-11-12T21:21:07+00:00

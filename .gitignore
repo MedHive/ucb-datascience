@@ -1,0 +1,8 @@
+projectA_meddevice_KG/data/raw_pdfs/
+projectA_meddevice_KG/.env
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.env
+projectA_meddevice_KG/.env

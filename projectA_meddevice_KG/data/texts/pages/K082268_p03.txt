@@ -1,0 +1,35 @@
+alongside  the  four  parameters  presented  on  the  predicate  device.  The  IPI  feature
+is not  intended  for use  in the  monitoring  of children  aged  less  than one  year  or
+neonates  and  the feature  is disabled  when  neonatal  mode  is selected  by the user.
+However,  the monitor  itself  may  continue  to  be  used,  in a  manner that  is identical
+to the  predicate  device  in all  respects,  for  all  patient  populations.
+
+The  MiniMediCO2  module  software  is designed  to  enable  the  index  to  be  calculated  by
+accepting  SpO2  and  heart  rate  values  supplied  at  the  required  rate  (once  a second)  by
+any type  of pulse  oximetry  module  implemented  in a  host device.  The  miniMediCO2
+module  with  IPI  software  may  be  implemented  in any other  pulse oximetry  enabled  host
+monitor after  making  the required  changes  to  the  host software  to  allow  provision  of
+SpO2  and  pulse  rate values  to  the  module  and  display of  the  IPI  by the  host. The  host
+will  continue  to  display  the four  reference  parameters  and  any  other  parameters
+provided by  the  monitor with  the  IPI  as an  addition.
+
+INTENDED  USE
+
+The  Capnostream  20  combined  capnograph/pulse  oximeter  monitor  is intended  to
+provide  professionally  trained  health  care  providers  the  continuous,  non  invasive
+measurement  and  monitoring  of carbon  dioxide  concentration  of the  expired  and
+inspired  breath  and  respiration  rate,  and for the  continuous  non-invasive  monitoring  of
+functional  oxygen  saturation  of arterial  hemoglobin  (SpO 2)  and  pulse  rate.  It is intended
+for use with  neonatal,  pediatric  and  adult  patients  in hospitals,  hospital  type  facilities,
+intra-hospital  transport  and  home  environments.
+
+The  Capnostream  20  monitor  provides  the  clinician  with  an  integrated  pulmonary  index
+(IPI).  The  IPI  is  based  on  four  parameters  provided  by  the monitor:  end  tidal  carbon
+dioxide,  respiration  rate,  oxygen  saturation  and  pulse  rate.  The  IPI  is a  single  index  of
+an  adult  or pediatric  patient's  ventilatory  status  displayed  on  a scale  of 1 - 10,  where  10
+indicates  optimal  pulmonary  status.  IPI  monitoring  displays  a  single  value  that
+represents  the  patient's  pulmonary  parameters  and  alerts  clinicians  to  changes  in the
+patient's  pulmonary  status.
+
+The  IPI  is an  adjunct to,  and  is  not  intended  to  replace,  vital  sign  monitoring.
+

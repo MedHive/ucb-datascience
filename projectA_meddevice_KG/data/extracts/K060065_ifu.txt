@@ -1,0 +1,57 @@
+use for the two parameter  bedside  monitor:
+
+Confidential
+
+Capnostream 20
+1.  The  MiniMediCO2 EtCO 2 Module:
+Is intended  for  installation  in host devices  that:  are  used  by  physicians,  nurses  and  other
+trained  health  care  providers  in critical  care  patient  settings,  such  as anesthesiology,
+intensive  care medicine,  neonatal  Intensive  care and  other  health  care areas where  non
+invasive  measurement  of expired  C02 and  inspired  C02 are  of  medical  value.  It
+continuously  and  non  invasively  measures  and  monitors  carbon  dioxide  concentration  of the
+expired  and  inspired  breath  and  respiration  rate.  This  module  is  designed  to  be  installed  in a
+host device,  in this case  the two  Parameter  Bedside  Monitor,  that  is for  prescription  use
+only.
+
+2.  The  MP100  Oximetry  Module
+Is indicated  for the continuous  non-invasive  monitoring  of functional  oxygen  saturation  of
+arterial  hemoglobin  (SpO2)  and  pulse  rate.  It is intended  for  use with  neonatal,  pediatric,
+and  adult patients  during  both  no motion  and  motion  conditions  and  for patients  who  are
+either well  or poorly  perfused.  It is to be  used  by  physicians,  nurses  and  other trained  health
+care  providers  in critical  care  patient  settings,  such  as anesthesiology,  intensive  care
+medicine,  neonatal  Intensive  care  and  other health  care areas.  This  module  is designed  to
+be installed  in a  host device,  in this  case the two  Parameter  Bedside  Monitor,  that  is for
+prescription  use only..
+
+-*.  Capnostreami0
+
+Capnostream1 0
+
+Proprietary:  Capnostream1 0
+Common:  One  Parameter  Bedside  Monitor
+
+ESTABLISHMENT  REGISTRATION  NUMBER
+
+Establishment  Registration  Number:  3003941644
+
+CONTACT  PERSON:
+
+Sanford  Brown,  Regulatory  Affairs  Director
+Oridion  Medical  1987  Ltd.
+Har  Hotzvim  Science  Based  Industrial  Park
+POB 45025
+
+91450  Jerusalem,  Israel
+
+Oridion  Medical  1987  Ltd. 
+
+Page  78
+
+K060065-Reply  to  FDA  Letter of March  2,  2006 
+Telephone:  +972-2-589-9115
+
+FAX:  +972-2-586-6680
+
+DEVICE  LISTING  FDA  FORM  2892:
+
+B051971

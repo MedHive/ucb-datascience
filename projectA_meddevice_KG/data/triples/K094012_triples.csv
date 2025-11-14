@@ -1,0 +1,53 @@
+subject,predicate,object,source_documents,intext_evidence,creation_timestamp,last_updated_timestamp
+Submission:K094012,hasKNumber,K094012,K094012_p01.txt,K094012,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+Submission:K094012,CONCERNSDEVICE,MedicalDevice:K094012,K094012_p01.txt,see DEVICE INFORMATION block,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+MedicalDevice:K094012,hasTradeName,Capnostream2o,K094012_p01.txt,Capnostream2o,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+MedicalDevice:K094012,hasCommonName,Two Parameter Bedside Monitor,K094012_p01.txt,Two Parameter Bedside Monitor,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+MedicalDevice:K094012,hasProductCode,CCK,K094012_p01.txt,CCK,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+MedicalDevice:K094012,hasProductCode,DQA,K094012_p01.txt,DQA,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+MedicalDevice:K094012,hasRegulationNumber,868.1400,K094012_p01.txt,868.1400,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+MedicalDevice:K094012,hasRegulationNumber,807.92,K094012_p01.txt,807.92,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+MedicalDevice:K094012,hasRegulationNumber,870.2700,K094012_p02.txt,870.2700,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+MedicalDevice:K094012,hasDeviceClass,Class II,K094012_p01.txt,Class II,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+Submission:K094012,HASAPPLICANT,Applicant:Oridion Capnography Inc,K094012_p01.txt,Oridion Capnography Inc,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+Submission:K094012,HASPREDICATEDEVICE,PredicateDevice:K082268,K094012_p04.txt,K082268,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+MedicalDevice:K094012,hasIndicationsForUseText,"the  indications for  use  in the  predicate 
+device 
+
+capnograph/pulse  oximeter  monitor  is intended
+to provide  professionally trained  health  care
+providers  the continuous,  non  invasive
+measurement  and  monitoring  of carbon
+dioxide  concentration of the  expired  and
+inspired  breath  and  respiration  rate,  and  for
+the  continuous  non-invasive  monitoring  of
+functional  oxygen saturation  of arterial
+hemoglobin  (SP02  and  pulse  rate).  It is
+intended  for use with  neonatal,  pediatric  and
+adult  patients in hospitals,  hospital type
+facilities, intra  hospital transport and  home
+environments.
+
+Target 
+population 
+
+Design 
+
+Where  Used 
+
+It is intended  for  use with  neonatal, 
+pediatric, and  adult  patients. 
+
+It is intended  for use  with neonatal,  pediatric,
+and  adult  patients.
+
+Identical  to  the Capnostream2o 
+described  in K082268  with  the
+exception  of the  introduction  of the
+micromediCa2  C02  modul",K094012_p01.txt,"the  indications for  use  in the  predicate 
+device 
+
+capnograph/pulse  oximeter  monitor  is intended
+to provide  professionally trained  health  care
+providers  the continuous,  non  invasive
+measu",2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00

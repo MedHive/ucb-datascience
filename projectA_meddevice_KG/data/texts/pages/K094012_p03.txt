@@ -1,0 +1,41 @@
+SPECIAL-51O(k)  Submission  for CAPNOSTREAM20  two parameter  bedside  monitor  with  microMediC02  002 module
+510(k)  Summary  of  Safety and  Effectiveness
+patient's  pulmonary  parameters  and  alerts  clinicians to changes  in the  patient's  pulmonary
+status.
+
+The  IPI  is an  adjunct  to,  and  is  not  intended  to replace,  vital  sign  monitoring
+
+COMPARISON  TO  PREDICATE  DEVICE
+
+The  Capnostream2O  with  the  micromediCO2  C02  module  is substantially equivalent  to the
+predicate Capnostream2O  with  the  minimedi0O2  C02  module.
+
+The new  device  meets  the safety and  performance  standards  met  by the  predicate  device.
+
+The functional features  and  the  intended  use  of the Capnostream2O  with  the  new  C02
+module are  substantially equivalent to  the  predicate  device.  No  significant changes were
+made to  the  monitor  hardware  or  software specifications to  support the  integration  of the
+new  module.  Slight mechanical  changes  were  made to  the monitor to accommodate  the
+smaller dimensions of the  new  module.  The  micromediCO2  module  is smaller  in size  than
+the miniMediC02  module,  in order to  facilitate integration  inside other  OEM  monitors,  and
+provides  enhanced processing  and  memory  capacity, to  support  software  applications for
+future  development.  The module  provides  the following  inputs  to the  host  monitor:
+
+FiCO2,  EtCO2  numeric,  EtCO2  waveform,  Respiratory  Rate,  IPI  (integrated  Pulmonary
+Index),  and continuous  002 numeric  and  waveform.
+
+The micromediCO2  includes a smaller  lamp,  a new solenoid,  broader  use  of molded  parts
+to  improve  production  quality, increased  processing  power,  reduced  power  consumption
+and  improved  flow  regulation.
+
+The  module  software  provides full  backward  compatibility with  the  miniMedic02  and
+supports RS232  or USB  communication  with  the host monitor.
+
+A  hazard  analysis was  carried  out on the  module  and  on  the  Capnostream2O  monitor  with
+the new  module.  This hazard  analysis  concluded  that any  residual  risks  were judged  as
+acceptable when  weighed  against the  intended  benefits  of use of the system.  Verification
+and  validation of the  new  module  as  a standalone  and  when  integrated  in the  monitor were
+successfully completed.
+
+Page  12
+

@@ -1,0 +1,61 @@
+SPECIAL-CAPNOSTREAM20-Two  Parameter  Monitor  With A2  Software 
+
+CONFIDENTIAL
+
+employing  the adaptive  averaging  algorithm,  the  respiration  rate  accurately  reflects  the
+patient's  condition  and  significantly  reduces the  generation  of  nuisance  alarms  by  the
+host.
+
+INTENDED  USE
+The  Capnostream 20 combined  capnograph/pulse  oximeter  monitor  is intended  to  provide
+professionally  trained  health  care  providers  the continuous,  non  invasive  measurement  and
+monitoring  of carbon  dioxide  concentration  of the expired  and  inspired  breath  and
+respiration  rate,  and  for the  continuous  non-invasive  monitoring  of functional  oxygen
+saturation  of arterial  hemoglobin  (SpO 2) and  pulse  rate.  It is intended  for use  with  neonatal,
+pediatric  and  adult patients  in hospitals,  hospital  type facilities,  intra  hospital  transport  and
+home  environments.
+
+COMPARISON  TO  PREDICATE  DEVICE
+The  Capnostream 20 with  adaptive  averaging  (A2)  software  (miniMediCO2  software  version
+2.31)  is identical  to  the predicate  Capnostream 2o  (miniMediCO2  software  version  2.20) with
+the exception  of the algorithm  changes.  No  changes  to the  host (Capnostream 2o)  software
+were  made to  support  the new  module  algorithms  and  no significant  hardware  changes
+have  been  made to  the device.
+
+The  new device  meets the  safety  and  performance  standards  met  by the  predicate  device.
+
+Test  data  are  provided  to  validate  the  performance  of the  software  and  its  substantial
+equivalence  to  the  predicate  device.  The functional  features  and  the  intended  use  of
+Capnostream 20 with  adaptive  averaging  software  are  substantially  equivalent  to the
+predicate  device.
+
+A hazard  analysis was  carried  out  on the  module with  the  new  algorithms.  This  hazard
+analysis  concluded  that  any  residual  risks  were judged  as acceptable  when weighed
+against  the intended  benefits  of  use  of the  system.
+
+Attribute 
+
+Indications  for 
+use 
+
+Oridion  Medical  1987  Ltd. 
+
+Capnostream20 Bedside 
+Monitor with  MiniMediCO 2
+EtCO 2 module  with  adaptive
+averaging  (A2)  software
+(version  2.31)
+
+Predicate Device-  Capnostream2o  Bedside
+Monitor K060065
+
+The  indications  for use  are  identical  The  Capnostream 20 combined  capnograph/pulse
+to  the  indications  for  use  in the 
+predicate  device 
+
+oximeter  monitor  is intended  to  provide
+professionally  trained  health  care  providers  the
+continuous,  non  invasive  measurement  and
+
+14
+

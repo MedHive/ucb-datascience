@@ -1,0 +1,53 @@
+PREDICATE  DEVICE
+Capnostream  20 with  the  Integrated  Pulmonary  Index  (IPI)  software  is substantially
+equivalent  to  the following  commercially  available  device:
+
+Manufacturer 
+
+Device 
+
+510(k)No. 
+
+Clearance  Date
+
+Oridion  1987 
+Medical  Ltd
+
+Capnostream  20 
+
+K072295 
+
+October  1 1th,  2007
+
+DEVICE  DESCRIPTION
+
+The  Capnostream  20  bedside  monitor  is a  two  parameter  monitor consisting  of a
+miniMediCO 2 capnography  module  and  a  pulse  oximetry  module  implemented  in a  host
+device.  The  host  device  displays  parameters  received  from  the  respective  modules  and
+generates  alarms when  preset  alarm  thresholds  are  crossed.  The  device  is classified  as
+CCK  Class  I[ according  to  21  CFR  § 868.1400  - Carbon  Dioxide  Analyzer  with  DQA  21
+CFR  § 870.2700  Pulse  Oximeter  listed  as an  additional  or alternate  classification.
+
+This  device  has  two  modules  that are  classified  as follows:
+
+·
+
+* 
+
+21  CFR  868.1400,  Carbon  Dioxide  Analyzer  (Classification  CCK)
+
+21  CFR  870.2700  Pulse  Oximeter  (Classification  DQA)
+
+Each  module  is  controlled  by  dedicated  software  that  is an  integral  part  of the.
+respective  module.  Each  module  provides  parameters  to the  host  software  (the
+Capnostream  20  device  software)  which  then  controls  the  display  of the  received
+parameter  values  and  creates  alarms  when the  values  cross the  preset  thresholds.
+The  miniMediCO 2 capnography  module  software  presented  in this  submission
+includes  the  ability to  receive  SpO 2 and  pulse  rate  values from  a  pulse  oximetry
+module  and  to  calculate  an  integrated  pulmonary  index  (IPI)  which  provides  a
+simple  and  clear  single  parameter  representation  of  the  patient's  ventilatory status.
+The  IPI,  is  an  integer  value  ranging  from  1-10  based  on  end  tidal  C02,  respiration
+rate,  SpO 2 (oxygen  saturation  of arterial  hemoglobin)  and  pulse  rate.  The
+calculated  IPI  is then  provided  to  a  host  device  (the Capnostream  20  device  in the
+case  of  this submission).  The  host displays  the  index  value  on  the  screen
+

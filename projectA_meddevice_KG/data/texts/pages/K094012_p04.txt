@@ -1,0 +1,113 @@
+SPECIAL-510(k)  Submission  for CAPNOSTREAM20  two  parameter bedside monitor  with  microMediC02  002 module
+510(k)  Summary  of  Safety and  Effectiveness
+
+Attribute 
+
+Indications for 
+use 
+
+Capnostream2O  Bedside 
+Monitor with 
+microMediCO2CO2  module
+
+Predicate  Device-  Capnostream2O
+Bedside  Monitor K082268
+
+The indications  for  use  are  identical  to  The Capnostream2O  combined
+the  indications for  use  in the  predicate 
+device 
+
+capnograph/pulse  oximeter  monitor  is intended
+to provide  professionally trained  health  care
+providers  the continuous,  non  invasive
+measurement  and  monitoring  of carbon
+dioxide  concentration of the  expired  and
+inspired  breath  and  respiration  rate,  and  for
+the  continuous  non-invasive  monitoring  of
+functional  oxygen saturation  of arterial
+hemoglobin  (SP02  and  pulse  rate).  It is
+intended  for use with  neonatal,  pediatric  and
+adult  patients in hospitals,  hospital type
+facilities, intra  hospital transport and  home
+environments.
+
+Target 
+population 
+
+Design 
+
+Where  Used 
+
+It is intended  for  use with  neonatal, 
+pediatric, and  adult  patients. 
+
+It is intended  for use  with neonatal,  pediatric,
+and  adult  patients.
+
+Identical  to  the Capnostream2o 
+described  in K082268  with  the
+exception  of the  introduction  of the
+micromediCa2  C02  module
+
+See  K082268
+
+It is to  be  used  by  physicians,  nurses 
+and  other trained  health  care 
+providers  in critical care  patient 
+settings,  such as  anesthesiology, 
+intensive care  medicine,  neonatal 
+intensive care and  other health  care
+areas.
+
+It is to  be  used  by  physicians, nurses  and
+other trained  health  care providers  in critical
+care  patient  settings, such  as anesthesiology,
+intensive care medicine,  neonatal intensive
+care  and other  health care  areas.
+
+Performance 
+Standards 
+
+ISO  21647 
+ISO  9919 
+
+Safety 
+Standards 
+
+IEC/EN  60601-1 
+lEC/EN  60601-1-2 
+
+lEG  60601-1-8 
+U L60601 -1 
+ISO  14971 
+
+ISO  21647
+ISO  9919
+
+lEO/EN  60601-1
+IEC/EN  60601-1-2
+
+lEC  60601-1-8
+UL 60601-1
+ISO  14971
+
+Biocompatibility  There  are  no  issues of 
+
+biocompatibility  for this device  and  no 
+biocompatibility  testing  was  done. 
+
+Sterility 
+
+This device  does  not  require 
+sterilization  and  is shipped  marked 
+non-sterile.
+
+There  are  no  issues  of biocompatibility  for this
+device  and  no  biocompatibility testing was
+done.
+
+This device does  not  require sterilization  and  is
+shipped  marked  non-sterile.
+
+Page  13
+

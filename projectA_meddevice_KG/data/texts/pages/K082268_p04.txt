@@ -1,0 +1,55 @@
+COMPARISON  TO  PREDICATE  DEVICE
+
+The  Capnostream  20  with  IPI  is equivalent  to  the  predicate  Capnostream  20
+(miniMediCO2  software  version  2.31)  with  the  exception  of the software  changes  to  the
+miniMediCO2  capnography  module  and  the  changes  to the  Capnostream  20  host
+software.
+
+The  new  device  meets the  safety  and  performance  standards  met by  the  predicate
+device.
+
+Software  testing was  performed  to  validate  the  performance  of the  new  software  and  its
+substantial  equivalence  to  the  predicate  device.  A clinical  evaluation  was  performed  to
+ensure that  the  modified  device  meets  user  requirements.  A safety  and  effectiveness
+evaluation was  performed  to  demonstrate  that  the  IPI  identified  all  instances  in which
+clinical  intervention  was  required  and  alerted  the practitioner  to  these changes.  The
+functional  features  and  the  intended  use of  Capnostream  20 with  IPI  are  substantially
+equivalent to  the  predicate  device.
+
+A hazard  analysis  was  carried  out on  the  module  with  the  IPI  functionality  and  on  the
+Capnostream  20  host  monitor  displaying  the  IPI  values.  This hazard  analysis  concluded
+that  any residual  risks were  judged  as  acceptable  when  weighed  against  the  intended
+benefits  of use  of the  system.
+
+Attribute 
+
+Indications  for 
+use 
+
+Capnostream  20  Bedside  Monitor 
+with  MiniMediCO 2 EtCO2 module 
+with  IPI  software  (version  2.51)
+
+Predicate  Device-  Capnostream
+20  Bedside  Monitor  K072295
+
+The  indications  for use  are  identical  to the  The  Capnostream  20  combined
+capnograph/pulse  oximeter  monitor  is
+indications  for  use  in the  predicate  device 
+intended  to  provide  professionally
+with  the  addition  of the  following: 
+trained  health  care  providers  the
+The  Capnostream  20  monitor provides 
+continuous,  non  invasive
+the  clinician  with  an  integrated  pulmonary  measurement  and  monitoring  of
+index (IPI).  The  IPI  is based  on four 
+parameters  provided  by the  monitor:  end 
+tidal  carbon  dioxide,  respiration  rate, 
+
+carbon  dioxide  concentration  of the
+expired  and  inspired  breath  and
+respiration  rate,  and for the  continuous
+non-invasive monitoring  of functional
+oxygen  saturation  of arterial
+Ihemoglobin  (Sp0 2 and  pulse  rate).  It is
+

@@ -1,0 +1,59 @@
+SPECIAL-51  0(k)  Submission  for CAPNOSTREAM2O  two  parameter bedside  monitor  with  microMediCO2  C02  module
+510(k)  Summary  of  Safety and  Effectiveness
+PREDICATE  DEVICE
+Capnostream20 with  the  microMediC02  002  board  is substantially equivalent  to the
+following  commercially available device:
+
+Manufacturer 
+
+Device 
+
+510(k)No. 
+
+Clearance  Date
+
+Oridion  1987  Medical  Ltd 
+
+Capnostream20 
+
+K(082268 
+
+February  gth,  2009
+
+DEVICE  DESCRIPTION
+The  Capnostream20  bedside monitor is a two parameter  monitor  consisting  of a 002
+capnography module  and  a pulse oximetry  module  implemented  in a host  device.  The  host
+device displays  parameters  received  from  the  respective  modules  and  generates  alarms
+when  preset alarm  thresholds are  crossed.  The  device  is classified as  CCK  Class  IL
+according  to 21  CFR  § 868.1400  - Carbon  Dioxide Analyzer  with  DQA 21  CFR  § 870.2700
+Pulse  Oximeter  listed  as  an  additional  or alternate  classification.
+
+This device  has two  modules  that  are classified as  follows:
+
+* 
+
+* 
+
+21  CFR  868.1400,  Carbon  Dioxide Analyzer  (Classification  CCK)
+
+21  CFR  870.2700  Pulse  Oximeter  (Classification  DQA)
+
+Each  module  is controlled  by dedicated  software that is an  integral  part  of the
+respective  module.
+
+INTENDED  USE
+The  Capnostream20  combined  capnograph/pulse  oximeter  monitor  is intended  to  provide
+professionally trained  health  care  providers the continuous,  non  invasive  measurement  and
+monitoring  of carbon  dioxide  concentration  of the expired  and  inspired breath  and
+respiration  rate,  and  for the  continuous non-invasive  monitoring  of functional  oxygen
+saturation  of arterial  hemoglobin  (SP0 2)  and  pulse  rate.  It is intended  for  use  with  neonatal,
+pediatric and  adult  patients  in hospitals,  hospital type facilities, intra-hospital  transport  and
+home  environments.
+
+The  Capnostream20  monitor  provides  the clinician with  an  integrated  pulmonary  index (IPI).
+The  IPI  is based  on four parameters  provided  by the  monitor:  end tidal  carbon dioxide,
+respiration  rate,  oxygen  saturation  and  pulse rate.  The  IPI  is a single  index of an  adult  or
+pediatric  patient's  ventilatory status  displayed on  a scale of 1 - 1 0, where  10  indicates
+optimal  pulmonary status.  [Pi  monitoring  displays a single value  that represents  the
+
+Page  I11
