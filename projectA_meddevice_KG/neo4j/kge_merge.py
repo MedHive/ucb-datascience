@@ -94,7 +94,10 @@ def run_kge_merge(k1, k2, out_csv, sim_threshold):
                 )
             )
 
-    df = pd.DataFrame(rows)
+    if rows:
+        df = pd.DataFrame(rows)
+    else:
+        df = pd.DataFrame(columns=["k1", "k2", "entity1", "entity2", "similarity"])
     out_path = Path(out_csv)
     out_path.parent.mkdir(parents=True, exist_ok=True)
     df.to_csv(out_path, index=False)
