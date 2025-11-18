@@ -67,5 +67,6 @@ IntectioP  Conwrui  yenta'  Devices
 [C  10  / 1 C St",K101995.pdf,IFU p.10,2025-11-04T19:29:59,2025-11-04T19:29:59
 Submission:K101995,hasPredicateDevice,Predicate:K080238,K101995.pdf,predicate section,2025-11-04T19:29:59,2025-11-04T19:29:59
 Submission:K101995,hasPredicateDevice,Predicate:K094012,K101995.pdf,predicate section,2025-11-04T19:29:59,2025-11-04T19:29:59
-MedicalDevice:K101995,hasApplicant,Oridion Capnography Inc,projectA_meddevice_KG/data/texts/pages/K101995_p01.txt,SUBMITTER'S  NAME  AND  ESTABLISHMENT  ADDRESS:  Oridion  Capnography  Inc. 160 Gould  Street,2025-11-12T22:15:05+00:00,2025-11-12T22:15:05+00:00
-MedicalDevice:K101995,hasProductCode,CCK,projectA_meddevice_KG/data/texts/pages/K101995_p06.txt,"Product  Code:  CCK Dated:  April  13,  201 0",2025-11-12T22:15:05+00:00,2025-11-12T22:15:05+00:00
+MedicalDevice:K101995,hasApplicant,Oridion Capnography Inc,projectA_meddevice_KG/data/texts/pages/K101995_p01.txt,SUBMITTER'S  NAME  AND  ESTABLISHMENT  ADDRESS:  Oridion  Capnography  Inc. 160 Gould  Street,2025-11-18T04:08:53+00:00,2025-11-18T04:08:53+00:00
+Submission:K101995,HASAPPLICANT,Applicant:Oridion Capnography Inc,projectA_meddevice_KG/data/texts/pages/K101995_p01.txt,SUBMITTER'S  NAME  AND  ESTABLISHMENT  ADDRESS:  Oridion  Capnography  Inc. 160 Gould  Street,2025-11-18T04:08:53+00:00,2025-11-18T04:08:53+00:00
+MedicalDevice:K101995,hasProductCode,CCK,projectA_meddevice_KG/data/texts/pages/K101995_p06.txt,"Product  Code:  CCK Dated:  April  13,  201 0",2025-11-18T04:08:53+00:00,2025-11-18T04:08:53+00:00

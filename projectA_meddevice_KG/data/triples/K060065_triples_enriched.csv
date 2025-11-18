@@ -36,4 +36,5 @@ Capnostream 20
 Is intended  for  installation  in host devices  that:  are  used  by  physicians,  nurse",,
 MedicalDevice:K060065,hasProductCode,DQA,projectA_meddevice_KG/data/texts/pages/K060065_p06.txt,"Product  Code:  DQA Dated:  April  6,  2006",2025-11-12T18:26:29Z,2025-11-12T18:26:29Z
 MedicalDevice:K060065,hasApplicant,Oridion Capnography  Inc,projectA_meddevice_KG/data/texts/pages/K060065_p01.txt,Oridion Capnography  Inc,2025-11-12T18:28:39+00:00,2025-11-12T18:28:39+00:00
-MedicalDevice:K060065,hasApplicant,Oridion Capnography Inc,projectA_meddevice_KG/data/texts/pages/K060065_p01.txt,SUBMITTERS  NAME  AND  ESTABLISHMENT  ADDRESS:  Oridion Capnography  Inc.,2025-11-12T22:14:29+00:00,2025-11-12T22:14:29+00:00
+MedicalDevice:K060065,hasApplicant,Oridion Capnography Inc,projectA_meddevice_KG/data/texts/pages/K060065_p01.txt,SUBMITTERS  NAME  AND  ESTABLISHMENT  ADDRESS:  Oridion Capnography  Inc.,2025-11-18T04:08:52+00:00,2025-11-18T04:08:52+00:00
+Submission:K060065,HASAPPLICANT,Applicant:Oridion Capnography Inc,projectA_meddevice_KG/data/texts/pages/K060065_p01.txt,SUBMITTERS  NAME  AND  ESTABLISHMENT  ADDRESS:  Oridion Capnography  Inc.,2025-11-18T04:08:52+00:00,2025-11-18T04:08:52+00:00

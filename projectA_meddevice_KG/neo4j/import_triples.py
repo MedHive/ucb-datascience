@@ -22,8 +22,8 @@ def is_node_token(tok):
         return False
     return (
         s.startswith('Submission:')
-        or s.startswith('Device:')
-        or s.startswith('Predicate:')
+        or s.startswith('Device:') or s.startswith('MedicalDevice:')
+        or s.startswith('Predicate:') or s.startswith('PredicateDevice:')
         or s.startswith('Applicant:')
     )
 
