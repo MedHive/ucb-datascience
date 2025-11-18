@@ -51,11 +51,9 @@ def run_kge_merge(k1, k2, out_csv, sim_threshold):
     tf = TriplesFactory.from_labeled_triples(all_triples)
     print("Total triples for training:", tf.num_triples)
 
-    training_tf, testing_tf = tf.split([0.8, 0.2])
-
     result = pipeline(
-        training=training_tf,
-        testing=testing_tf,
+        training=tf,
+        testing=tf,
         model="TransE",
         model_kwargs=dict(embedding_dim=64),
         training_kwargs=dict(num_epochs=200),
