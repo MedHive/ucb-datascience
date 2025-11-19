@@ -1,16 +1,17 @@
 subject,predicate,object,source_documents,intext_evidence,creation_timestamp,last_updated_timestamp
-Submission:K094012,hasKNumber,K094012,K094012_p01.txt,K094012,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
-Submission:K094012,CONCERNSDEVICE,MedicalDevice:K094012,K094012_p01.txt,see DEVICE INFORMATION block,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
-MedicalDevice:K094012,hasTradeName,Capnostream2o,K094012_p01.txt,Capnostream2o,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
-MedicalDevice:K094012,hasCommonName,Two Parameter Bedside Monitor,K094012_p01.txt,Two Parameter Bedside Monitor,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
-MedicalDevice:K094012,hasProductCode,CCK,K094012_p01.txt,CCK,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
-MedicalDevice:K094012,hasProductCode,DQA,K094012_p01.txt,DQA,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
-MedicalDevice:K094012,hasRegulationNumber,868.1400,K094012_p01.txt,868.1400,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
-MedicalDevice:K094012,hasRegulationNumber,807.92,K094012_p01.txt,807.92,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
-MedicalDevice:K094012,hasRegulationNumber,870.2700,K094012_p02.txt,870.2700,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
-MedicalDevice:K094012,hasDeviceClass,Class II,K094012_p01.txt,Class II,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
-Submission:K094012,HASAPPLICANT,Applicant:Oridion Capnography Inc,K094012_p01.txt,Oridion Capnography Inc,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
-Submission:K094012,HASPREDICATEDEVICE,PredicateDevice:K082268,K094012_p04.txt,K082268,2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+Submission:K094012,hasKNumber,K094012,K094012_p01.txt,K094012,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+Submission:K094012,CONCERNSDEVICE,MedicalDevice:K094012,K094012_p01.txt,see DEVICE INFORMATION block,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+MedicalDevice:K094012,hasTradeName,Capnostream2o,K094012_p01.txt,Capnostream2o,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+MedicalDevice:K094012,hasCommonName,Two Parameter Bedside Monitor,K094012_p01.txt,Two Parameter Bedside Monitor,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+MedicalDevice:K094012,hasProductCode,CCK,K094012_p01.txt,CCK,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+MedicalDevice:K094012,hasProductCode,DQA,K094012_p01.txt,DQA,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+MedicalDevice:K094012,hasRegulationNumber,868.1400,K094012_p01.txt,868.1400,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+MedicalDevice:K094012,hasRegulationNumber,807.92,K094012_p01.txt,807.92,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+MedicalDevice:K094012,hasRegulationNumber,870.2700,K094012_p02.txt,870.2700,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+MedicalDevice:K094012,hasDeviceClass,Class II,K094012_p01.txt,Class II,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+Submission:K094012,HASAPPLICANT,Applicant:Oridion Capnography Inc,K094012_p01.txt,Oridion Capnography Inc,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+Submission:K094012,HASPREDICATEDEVICE,PredicateDevice:K082268,K094012_p04.txt,K082268,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+PredicateDevice:K082268,hasPredicateName,th microMediCO2CO2 module Predicate Device- Capnostream2O Bedside Monitor  The indications for use are identical to The Capnostream2O combined the,K094012_p04.txt,th microMediCO2CO2 module Predicate Device- Capnostream2O Bedside Monitor K082268 The indications for use are identical to The Capnostream2O combined the,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
 MedicalDevice:K094012,hasIndicationsForUseText,"the  indications for  use  in the  predicate 
 device 
 
@@ -50,4 +51,12 @@ device
 capnograph/pulse  oximeter  monitor  is intended
 to provide  professionally trained  health  care
 providers  the continuous,  non  invasive
-measu",2025-11-12T01:12:00.805920+00:00,2025-11-12T01:12:00.805920+00:00
+measu",2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+Submission:K094012,hasDecisionDate,MAY  k 2 2010,K094012_p01.txt,MAY  k 2 2010,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+Applicant:Oridion Capnography Inc,hasContactEmail,rachel.weissbrod@oridion.com,K094012_p01.txt,Email:  rachel.weissbrod~oridion.com,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+MedicalDevice:K094012,supportedByTestingData,TestingData:K094012:1,K094012_p04.txt,biocompatibility  for this device  and  no  biocompatibility  testing  was  done.   Sterility,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+TestingData:K094012:1,hasTestType,Testing,K094012_p04.txt,biocompatibility  for this device  and  no  biocompatibility  testing  was  done.   Sterility,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+TestingData:K094012:1,hasTestSummaryText,biocompatibility  for this device  and  no  biocompatibility  testing  was  done.   Sterility,K094012_p04.txt,biocompatibility  for this device  and  no  biocompatibility  testing  was  done.   Sterility,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+MedicalDevice:K094012,supportedByTestingData,TestingData:K094012:2,K094012_p04.txt,There  are  no  issues  of biocompatibility  for this device  and  no  biocompatibility testing was done.  This device does  not  require sterilization  and  is,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+TestingData:K094012:2,hasTestType,Testing,K094012_p04.txt,There  are  no  issues  of biocompatibility  for this device  and  no  biocompatibility testing was done.  This device does  not  require sterilization  and  is,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00
+TestingData:K094012:2,hasTestSummaryText,There  are  no  issues  of biocompatibility  for this device  and  no  biocompatibility testing was done.  This device does  not  require sterilization  and  is,K094012_p04.txt,There  are  no  issues  of biocompatibility  for this device  and  no  biocompatibility testing was done.  This device does  not  require sterilization  and  is,2025-11-19T04:39:17.520444+00:00,2025-11-19T04:39:17.520444+00:00

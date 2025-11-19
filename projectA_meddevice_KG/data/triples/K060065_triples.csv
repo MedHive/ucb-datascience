@@ -1,15 +1,20 @@
-subject,predicate,object,source_documents,intext_evidence,timestamp
-Submission:K060065,hasKNumber,K060065,K060065_p01.txt,K060065,
-Submission:K060065,CONCERNSDEVICE,MedicalDevice:K060065,K060065_p01.txt,see DEVICE INFORMATION block,
-MedicalDevice:K060065,hasTradeName,Capnostream 2o,K060065_p06.txt,Capnostream 2o,
-MedicalDevice:K060065,hasRegulationNumber,868.1400,K060065_p02.txt,868.1400,
-MedicalDevice:K060065,hasRegulationNumber,870.2700,K060065_p02.txt,870.2700,
-MedicalDevice:K060065,hasDeviceClass,Class II,K060065_p02.txt,Class II,
-Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K050844,K060065_p02.txt,K050844,
-Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K051608,K060065_p02.txt,K051608,
-Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K012891,K060065_p02.txt,K012891,
-Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K021090,K060065_p02.txt,K021090,
-Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K022084,K060065_p02.txt,K022084,
+subject,predicate,object,source_documents,intext_evidence,creation_timestamp,last_updated_timestamp
+Submission:K060065,hasKNumber,K060065,K060065_p01.txt,K060065,2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+Submission:K060065,CONCERNSDEVICE,MedicalDevice:K060065,K060065_p01.txt,see DEVICE INFORMATION block,2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+MedicalDevice:K060065,hasTradeName,Capnostream 2o,K060065_p06.txt,Capnostream 2o,2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+MedicalDevice:K060065,hasRegulationNumber,868.1400,K060065_p02.txt,868.1400,2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+MedicalDevice:K060065,hasRegulationNumber,870.2700,K060065_p02.txt,870.2700,2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+MedicalDevice:K060065,hasDeviceClass,Class II,K060065_p02.txt,Class II,2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K050844,K060065_p02.txt,K050844,2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+PredicateDevice:K050844,hasPredicateName,"Inc Models 750c-2ms, 750cm-2ms, 750c-Nnl, 750cm with MiniMediCO 2-V1  V Larsen & Toubro Limited Star 50 Monitoring System K051608 * Pulse",K060065_p02.txt,", Inc Models 750c-2ms, 750cm-2ms, 750c-Nnl, 750cm with MiniMediCO 2-V1 K050844 V Larsen & Toubro Limited Star 50 Monitoring System K051608 * Pulse",2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K051608,K060065_p02.txt,K051608,2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+PredicateDevice:K051608,hasPredicateName,"iCO 2-V1 K050844 V Larsen & Toubro Limited Star 50 Monitoring System  * Pulse Oximeter Module, Sp02 Module (MP100) used in legally marketed",K060065_p02.txt,"iCO 2-V1 K050844 V Larsen & Toubro Limited Star 50 Monitoring System K051608 * Pulse Oximeter Module, Sp02 Module (MP100) used in legally marketed",2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K012891,K060065_p02.txt,K012891,2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+PredicateDevice:K012891,hasPredicateName,"evices: , NPB OxiMax Pulse Oximeter System With N-595 Pulse Oximeter,  v NPB Oximax N-550, K021090 * Nurse Call v NPB OxiMax Pulse Oximete",K060065_p02.txt,"evices: , NPB OxiMax Pulse Oximeter System With N-595 Pulse Oximeter, K012891 v NPB Oximax N-550, K021090 * Nurse Call v NPB OxiMax Pulse Oximete",2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K021090,K060065_p02.txt,K021090,2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+PredicateDevice:K021090,hasPredicateName,"Oximeter System With N-595 Pulse Oximeter, K012891 v NPB Oximax N-550,  * Nurse Call v NPB OxiMax Pulse Oximeter System With N-595 Pulse Ox",K060065_p02.txt,"Oximeter System With N-595 Pulse Oximeter, K012891 v NPB Oximax N-550, K021090 * Nurse Call v NPB OxiMax Pulse Oximeter System With N-595 Pulse Ox",2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+Submission:K060065,HASPREDICATEDEVICE,PredicateDevice:K022084,K060065_p02.txt,K022084,2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+PredicateDevice:K022084,hasPredicateName,"System With N-595 Pulse Oximeter, K012891 · Welch Allyn Atlas Monitor  CLASSIFICATION Capnostream 20 73CCK Class [I This device has two modules",K060065_p02.txt,"System With N-595 Pulse Oximeter, K012891 · Welch Allyn Atlas Monitor K022084 CLASSIFICATION Capnostream 20 73CCK Class [I This device has two modules",2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
 MedicalDevice:K060065,hasIndicationsForUseText,"use for the two parameter  bedside  monitor:
 
 Confidential
@@ -33,6 +38,5 @@ Confidential
 
 Capnostream 20
 1.  The  MiniMediCO2 EtCO 2 Module:
-Is intended  for  installation  in host devices  that:  are  used  by  physicians,  nurse",
-MedicalDevice:K060065,hasProductCode,DQA,projectA_meddevice_KG/data/texts/pages/K060065_p06.txt,"Product  Code:  DQA Dated:  April  6,  2006",2025-11-12T18:26:29Z
-MedicalDevice:K060065,hasApplicant,Oridion Capnography  Inc,projectA_meddevice_KG/data/texts/pages/K060065_p01.txt,Oridion Capnography  Inc,2025-11-12T18:28:39+00:00
+Is intended  for  installation  in host devices  that:  are  used  by  physicians,  nurse",2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00
+Submission:K060065,hasDecisionDate,"K060065-Reply  to FDA  Letter of  March  2, 2006",K060065_p01.txt,"K060065-Reply  to FDA  Letter of  March  2, 2006",2025-11-19T04:39:17.483458+00:00,2025-11-19T04:39:17.483458+00:00

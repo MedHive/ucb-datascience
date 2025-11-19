@@ -1,17 +1,19 @@
 subject,predicate,object,source_documents,intext_evidence,creation_timestamp,last_updated_timestamp
-Submission:K082268,hasKNumber,K082268,K082268_p01.txt,K082268,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-Submission:K082268,CONCERNSDEVICE,MedicalDevice:K082268,K082268_p01.txt,see DEVICE INFORMATION block,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-MedicalDevice:K082268,hasTradeName,Capnostream 20 with Integrated Pulmonary Index,K082268_p01.txt,Capnostream 20 with Integrated Pulmonary Index,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-MedicalDevice:K082268,hasCommonName,Two Parameter Bedside Monitor,K082268_p01.txt,Two Parameter Bedside Monitor,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-MedicalDevice:K082268,hasProductCode,COK,K082268_p01.txt,COK,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-MedicalDevice:K082268,hasProductCode,DQA,K082268_p01.txt,DQA,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-MedicalDevice:K082268,hasProductCode,CCK,K082268_p02.txt,CCK,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-MedicalDevice:K082268,hasRegulationNumber,868.1400,K082268_p01.txt,868.1400,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-MedicalDevice:K082268,hasRegulationNumber,807.92,K082268_p01.txt,807.92,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-MedicalDevice:K082268,hasRegulationNumber,870.2700,K082268_p02.txt,870.2700,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-MedicalDevice:K082268,hasDeviceClass,Class II,K082268_p01.txt,Class II,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-Submission:K082268,HASAPPLICANT,Applicant:Oridion Capnography Inc,K082268_p01.txt,Oridion Capnography Inc,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
-Submission:K082268,HASPREDICATEDEVICE,PredicateDevice:K072295,K082268_p02.txt,K072295,2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+Submission:K082268,hasKNumber,K082268,K082268_p01.txt,K082268,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+Submission:K082268,CONCERNSDEVICE,MedicalDevice:K082268,K082268_p01.txt,see DEVICE INFORMATION block,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,hasTradeName,Capnostream 20 with Integrated Pulmonary Index,K082268_p01.txt,Capnostream 20 with Integrated Pulmonary Index,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,hasCommonName,Two Parameter Bedside Monitor,K082268_p01.txt,Two Parameter Bedside Monitor,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,hasProductCode,COK,K082268_p01.txt,COK,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,hasProductCode,DQA,K082268_p01.txt,DQA,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,hasProductCode,CCK,K082268_p02.txt,CCK,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,hasRegulationNumber,868.1400,K082268_p01.txt,868.1400,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,hasRegulationNumber,807.92,K082268_p01.txt,807.92,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,hasRegulationNumber,870.2700,K082268_p02.txt,870.2700,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,hasDeviceClass,Class II,K082268_p01.txt,Class II,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+Submission:K082268,HASAPPLICANT,Applicant:Oridion Capnography Inc,K082268_p01.txt,Oridion Capnography Inc,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+Submission:K082268,HASPREDICATEDEVICE,PredicateDevice:K072295,K082268_p02.txt,K072295,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+PredicateDevice:K072295,hasPredicateName,"e 510(k)No. Clearance Date Oridion 1987 Medical Ltd Capnostream 20  October 1 1th, 2007 DEVICE DESCRIPTION The Capnostream 20 bedside mo",K082268_p02.txt,"e 510(k)No. Clearance Date Oridion 1987 Medical Ltd Capnostream 20 K072295 October 1 1th, 2007 DEVICE DESCRIPTION The Capnostream 20 bedside mo",2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+PredicateDevice:K072295,hasPredicateManufacturer,Clearance Date Oridion 1987 Medical Ltd,K082268_p02.txt,"e 510(k)No. Clearance Date Oridion 1987 Medical Ltd Capnostream 20 K072295 October 1 1th, 2007 DEVICE DESCRIPTION The Capnostream 20 bedside mo",2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
 MedicalDevice:K082268,hasIndicationsForUseText,"capnograph/pulse  oximeter  monitor  is
 indications  for  use  in the  predicate  device 
 intended  to  provide  professionally
@@ -43,4 +45,17 @@ is a  sing",K082268_p01.txt,"capnograph/pulse  oximeter  monitor  is
 indications  for  use  in the  predicate  device 
 intended  to  provide  professionally
 with  the  addition  of the  following: 
-trained  health  care  provider",2025-11-12T01:10:46.531163+00:00,2025-11-12T01:10:46.531163+00:00
+trained  health  care  provider",2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+Submission:K082268,hasDecisionDate,"August 5, 2008",K082268_p01.txt,"August 5, 2008",2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+Applicant:Oridion Capnography Inc,hasContactEmail,rachel.weissbrod@oridion.com,K082268_p01.txt,Email:  rachel.weissbrod~oridion.com,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,hasSoftwareComponent,SoftwareInformation:K082268,K082268_p04.txt,software  version  2.31,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+SoftwareInformation:K082268,hasSoftwareVersion,2.31,K082268_p04.txt,software  version  2.31,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,supportedByTestingData,TestingData:K082268:1,K082268_p04.txt,device.  Software  testing was  performed  to  validate  the  performance  of the  new  software  and  its substantial  equivalence  to  the  predicate  device.  A clinical  evaluation  was  performed  to ensure that  the  modified  device  meets  user  requirements.  A safety  and  effectiveness evaluation was  performed  to  demonstrate  that  the  IPI  identified  all  instances  in which,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+TestingData:K082268:1,hasTestType,Testing,K082268_p04.txt,device.  Software  testing was  performed  to  validate  the  performance  of the  new  software  and  its substantial  equivalence  to  the  predicate  device.  A clinical  evaluation  was  performed  to ensure that  the  modified  device  meets  user  requirements.  A safety  and  effectiveness evaluation was  performed  to  demonstrate  that  the  IPI  identified  all  instances  in which,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+TestingData:K082268:1,hasTestSummaryText,device.  Software  testing was  performed  to  validate  the  performance  of the  new  software  and  its substantial  equivalence  to  the  predicate  device.  A clinical  evaluation  was  performed  to ensure that  the  modified  device  meets  user  requirements.  A safety  and  effectiveness evaluation was  performed  to  demonstrate  that  the  IPI  identified  all  instances  in which,K082268_p04.txt,device.  Software  testing was  performed  to  validate  the  performance  of the  new  software  and  its substantial  equivalence  to  the  predicate  device.  A clinical  evaluation  was  performed  to ensure that  the  modified  device  meets  user  requirements.  A safety  and  effectiveness evaluation was  performed  to  demonstrate  that  the  IPI  identified  all  instances  in which,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,supportedByTestingData,TestingData:K082268:2,K082268_p05.txt,Biocompatibility  There  are  no  issues  of  biocompatibility  for  There  are  no  issues  of biocompatibility for this  device  and  no  biocompatibility testing  was  done.  this  device  and  no  biocompatibility  testing  was  done.,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+TestingData:K082268:2,hasTestType,Testing,K082268_p05.txt,Biocompatibility  There  are  no  issues  of  biocompatibility  for  There  are  no  issues  of biocompatibility for this  device  and  no  biocompatibility testing  was  done.  this  device  and  no  biocompatibility  testing  was  done.,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+TestingData:K082268:2,hasTestSummaryText,Biocompatibility  There  are  no  issues  of  biocompatibility  for  There  are  no  issues  of biocompatibility for this  device  and  no  biocompatibility testing  was  done.  this  device  and  no  biocompatibility  testing  was  done.,K082268_p05.txt,Biocompatibility  There  are  no  issues  of  biocompatibility  for  There  are  no  issues  of biocompatibility for this  device  and  no  biocompatibility testing  was  done.  this  device  and  no  biocompatibility  testing  was  done.,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+MedicalDevice:K082268,supportedByTestingData,TestingData:K082268:3,K082268_p05.txt,testing  was  done.  this  device  and  no  biocompatibility  testing  was  done.   Sterility,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+TestingData:K082268:3,hasTestType,Testing,K082268_p05.txt,testing  was  done.  this  device  and  no  biocompatibility  testing  was  done.   Sterility,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00
+TestingData:K082268:3,hasTestSummaryText,testing  was  done.  this  device  and  no  biocompatibility  testing  was  done.   Sterility,K082268_p05.txt,testing  was  done.  this  device  and  no  biocompatibility  testing  was  done.   Sterility,2025-11-19T04:39:17.510743+00:00,2025-11-19T04:39:17.510743+00:00

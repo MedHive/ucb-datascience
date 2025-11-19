@@ -1,69 +1,62 @@
 subject,predicate,object,source_documents,intext_evidence,creation_timestamp,last_updated_timestamp
-Submission:K101995,hasKNumber,K101995,K101995.pdf,cover page,2025-11-04T19:29:59,2025-11-04T19:29:59
-Submission:K101995,concernsDevice,Device:Capnostream20p  with  Masimo  MX1  SpO2  board.,K101995.pdf,p.1 device name line,2025-11-04T19:29:59,2025-11-04T19:29:59
-Submission:K101995,hasApplicant,Applicant:Oridion  Capnography  Inc.,K101995.pdf,applicant block p.1,2025-11-04T19:29:59,2025-11-04T19:29:59
-Device:Capnostream20p  with  Masimo  MX1  SpO2  board.,hasTradeName,Capnostream20p  with  Masimo  MX1  SpO2  board.,K101995.pdf,p.1 name,2025-11-04T19:29:59,2025-11-04T19:29:59
-Device:Capnostream20p  with  Masimo  MX1  SpO2  board.,hasCommonName,Two  Parameter  Bedside  Monitor,K101995.pdf,p.1 common name,2025-11-04T19:29:59,2025-11-04T19:29:59
-Device:Capnostream20p  with  Masimo  MX1  SpO2  board.,hasProductCode,COK,K101995.pdf,product code lines,2025-11-04T19:29:59,2025-11-04T19:29:59
-Device:Capnostream20p  with  Masimo  MX1  SpO2  board.,hasProductCode,DQA,K101995.pdf,product code lines,2025-11-04T19:29:59,2025-11-04T19:29:59
-Device:Capnostream20p  with  Masimo  MX1  SpO2  board.,hasProductCode,OQA,K101995.pdf,product code lines,2025-11-04T19:29:59,2025-11-04T19:29:59
-Device:Capnostream20p  with  Masimo  MX1  SpO2  board.,hasRegulationNumber,21 CFR 807.92,K101995.pdf,regulation lines,2025-11-04T19:29:59,2025-11-04T19:29:59
-Device:Capnostream20p  with  Masimo  MX1  SpO2  board.,hasRegulationNumber,21 CFR 868.1400,K101995.pdf,regulation lines,2025-11-04T19:29:59,2025-11-04T19:29:59
-Device:Capnostream20p  with  Masimo  MX1  SpO2  board.,hasRegulationNumber,21 CFR 870.2700,K101995.pdf,regulation lines,2025-11-04T19:29:59,2025-11-04T19:29:59
-Device:Capnostream20p  with  Masimo  MX1  SpO2  board.,hasIndicationsForUseText,"CAPNOSTREAM@20p  with  Masimo  MXI  SpO2  Board
-(This document  is  not confidential)
+Submission:K101995,hasKNumber,K101995,K101995_p01.txt,K101995,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+Submission:K101995,CONCERNSDEVICE,MedicalDevice:K101995,K101995_p01.txt,see DEVICE INFORMATION block,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+MedicalDevice:K101995,hasTradeName,Capnostream2o,K101995_p01.txt,Capnostream2o,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+MedicalDevice:K101995,hasCommonName,Two Parameter Bedside Monitor,K101995_p01.txt,Two Parameter Bedside Monitor,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+MedicalDevice:K101995,hasProductCode,CCK,K101995_p01.txt,CCK,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+MedicalDevice:K101995,hasProductCode,DQA,K101995_p01.txt,DQA,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+MedicalDevice:K101995,hasRegulationNumber,868.1400,K101995_p01.txt,868.1400,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+MedicalDevice:K101995,hasRegulationNumber,807.92,K101995_p01.txt,807.92,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+MedicalDevice:K101995,hasRegulationNumber,870.2700,K101995_p02.txt,870.2700,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+MedicalDevice:K101995,hasDeviceClass,Class II,K101995_p01.txt,Class II,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+Submission:K101995,HASAPPLICANT,Applicant:Oridion Capnography Inc,K101995_p01.txt,Oridion Capnography Inc,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+Submission:K101995,HASPREDICATEDEVICE,PredicateDevice:K082268,K101995_p04.txt,K082268,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+PredicateDevice:K082268,hasPredicateName,th microMediCO2CO2 module Predicate Device- Capnostream2O Bedside Monitor  The indications for use are identical to The Capnostream2O combined the,K101995_p04.txt,th microMediCO2CO2 module Predicate Device- Capnostream2O Bedside Monitor K082268 The indications for use are identical to The Capnostream2O combined the,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+MedicalDevice:K101995,hasIndicationsForUseText,"the  indications for  use  in the  predicate 
+device 
 
-Indications  for Use
+capnograph/pulse  oximeter  monitor  is intended
+to provide  professionally trained  health  care
+providers  the continuous,  non  invasive
+measurement  and  monitoring  of carbon
+dioxide  concentration of the  expired  and
+inspired  breath  and  respiration  rate,  and  for
+the  continuous  non-invasive  monitoring  of
+functional  oxygen saturation  of arterial
+hemoglobin  (SP02  and  pulse  rate).  It is
+intended  for use with  neonatal,  pediatric  and
+adult  patients in hospitals,  hospital type
+facilities, intra  hospital transport and  home
+environments.
 
-November  24,  2010
+Target 
+population 
 
-510(k)  Number  (if known):  K1 01 995
+Design 
 
-Device  Name:  Capnostream20p
+Where  Used 
 
-Indications for  Use:
+It is intended  for  use with  neonatal, 
+pediatric, and  adult  patients. 
 
-The Capnostream@20p  combined  capnograph/pulse oximeter  monitor  and  its  accessories are
-intended  to  provide  professionally trained  health  care providers with  continuous,  non-invasive
-measurement  and  monitoring  of carbon  dioxide  concentration  of the expired and  inspired  breath
-and  respiration  rate,  and  with  continuous  noninvasive  monitoring  of functional  oxygen saturation
-of arterial  hemoglobin  (SpO2)  and  pulse rate.  It is also indicated  for continuous  non-invasive
-monitoring  of carboxyhemoglobin  saturation  (measured  by  an  SpCO/SpMetISpHb  sensor),
-methemoglobin  saturation  (measured  by an  SpCO/SpMetISpHb  sensor)  and  total  hemoglobin
-concentration  (measured  by  an  SpCO/SpMetISpHb  sensor).  It is intended  for use  with  neonatal,
-pediatric,  and  adult patients  in hospitals,  hospital-type facilities,  intra-hospital  transport and
-home  environments.
+It is intended  for use  with neonatal,  pediatric,
+and  adult  patients.
 
-The  Capnostream@020p  monitor provides  the  clinician with  an  integrated  pulmonary  index (IPI).
-The  IP1  is based  on  four  parameters  provided  by  the  monitor:  end  tidal carbon  dioxide,
-respiration  rate,  oxygen saturation  and  pulse  rate.  The  IP1  is a single index  of an  adult  or
-pediatric  patient's  ventilatory status  displayed  on  a scale  of 1 - 10,  where  10  indicates optimal
-pulmonary  status.  IP1  monitoring  displays  a single  value that  represents the  patient's  pulmonary
-parameters  and  alerts  clinicians to  changes  in the  patient's  pulmonary  status.
-The  IP1  is an  adjunct to,  and  is not  intended to replace,  vital  sign  monitoring.
+Identical  to  the Capnostream2o 
+described  in K082268  with  the
+exception  of the  introduction  of the
+micromediCa2  C02  modul",K101995_p01.txt,"the  indications for  use  in the  predicate 
+device 
 
-Prescription  Use 
-(Per  21  CFR  801  Subpart  0) 
-
-X 
-
-AND/OR 
-
-Over-The-Counter  Use 
-
-_____
-
-(21  CFR  801  Subpart  C)
-
-PLEASE  DO  NOT WRITE  BELOW  THIS  LINE  - CONT  NUE  ON  ANOTHI  R  P AGE  IF
-NEEDED)
-
-Oridion  Medical  1987  Ltd. 
-
-Divisionl  C, AneStlesiOI0glV  General
-IntectioP  Conwrui  yenta'  Devices
-510 (k) Number: 
-
-[C  10  / 1 C St",K101995.pdf,IFU p.10,2025-11-04T19:29:59,2025-11-04T19:29:59
-Submission:K101995,hasPredicateDevice,Predicate:K080238,K101995.pdf,predicate section,2025-11-04T19:29:59,2025-11-04T19:29:59
-Submission:K101995,hasPredicateDevice,Predicate:K094012,K101995.pdf,predicate section,2025-11-04T19:29:59,2025-11-04T19:29:59
+capnograph/pulse  oximeter  monitor  is intended
+to provide  professionally trained  health  care
+providers  the continuous,  non  invasive
+measu",2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+Submission:K101995,hasDecisionDate,MAY  k 2 2010,K101995_p01.txt,MAY  k 2 2010,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+Applicant:Oridion Capnography Inc,hasContactEmail,rachel.weissbrod@oridion.com,K101995_p01.txt,Email:  rachel.weissbrod~oridion.com,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+MedicalDevice:K101995,supportedByTestingData,TestingData:K101995:1,K101995_p04.txt,biocompatibility  for this device  and  no  biocompatibility  testing  was  done.   Sterility,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+TestingData:K101995:1,hasTestType,Testing,K101995_p04.txt,biocompatibility  for this device  and  no  biocompatibility  testing  was  done.   Sterility,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+TestingData:K101995:1,hasTestSummaryText,biocompatibility  for this device  and  no  biocompatibility  testing  was  done.   Sterility,K101995_p04.txt,biocompatibility  for this device  and  no  biocompatibility  testing  was  done.   Sterility,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+MedicalDevice:K101995,supportedByTestingData,TestingData:K101995:2,K101995_p04.txt,There  are  no  issues  of biocompatibility  for this device  and  no  biocompatibility testing was done.  This device does  not  require sterilization  and  is,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+TestingData:K101995:2,hasTestType,Testing,K101995_p04.txt,There  are  no  issues  of biocompatibility  for this device  and  no  biocompatibility testing was done.  This device does  not  require sterilization  and  is,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
+TestingData:K101995:2,hasTestSummaryText,There  are  no  issues  of biocompatibility  for this device  and  no  biocompatibility testing was done.  This device does  not  require sterilization  and  is,K101995_p04.txt,There  are  no  issues  of biocompatibility  for this device  and  no  biocompatibility testing was done.  This device does  not  require sterilization  and  is,2025-11-19T04:39:17.537141+00:00,2025-11-19T04:39:17.537141+00:00
