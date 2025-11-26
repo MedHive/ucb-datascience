@@ -121,11 +121,12 @@ def product_codes(blocks):
 def predicate_ks(blocks):
     ks = []
     key = re.compile(r"Predicate|Substantial\s+Equivalence|SE\s+to|equivalent", re.I)
-    kpat = re.compile(r"\bK\d{6}\b")
+    kpat = re.compile(r"\bK[\d\s]{6}\b", re.I)
     for src, txt in blocks:
         for line in txt.splitlines():
             if key.search(line) and kpat.search(line):
-                for k in kpat.findall(line):
+                for raw in kpat.findall(line):
+                    k = re.sub(r"\s+", "", raw)
                     ks.append((src, line.strip(), k))
     seen = set()
     out = []
@@ -150,6 +151,7 @@ def main():
     src, ev, val = first_applicant(blocks)
     if val:
         add_row(rows, s_md, "hasApplicant", val, src or "", ev or "")
+        add_row(rows, s_sub, "HASAPPLICANT", f"Applicant:{val}", src or "", ev or "")
     for src, ev, code in product_codes(blocks):
         add_row(rows, s_md, "hasProductCode", code, src or "", ev or "")
     for src, ev, kpred in predicate_ks(blocks):
