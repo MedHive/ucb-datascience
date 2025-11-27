@@ -1,0 +1,242 @@
+SPECIAL-510(k) Submission for CAPNOSTREAM20 two parameter bedside monitor with microMediC02 G02 module
+51 0(k) Summary of Safety and Effectiveness )u q (2
+7. 510(k) Summary of Safety and Effectiveness yU t
+This summary of safety and effectiveness information is being submitted in accordance with
+the requirements of 21 CFR 807.92
+(This section is not confidential) MAY k 2 2010
+DATE THIS SUMMARY WAS PREPARED
+December 15th ,2009
+SUBMITTER'S NAME AND ESTABLISHMENT ADDRESS:
+Oridion Capnography Inc.
+160 Gould Street
+Needham, MA 02494
+ESTABLISHMENT REGISTRATION NUMBER
+3003941644
+CONTACT PERSON:
+Rachel Weissbrod, Director of Regulatory Affairs
+Oridion Medical 1987 Ltd.
+Har Hotzvim Science Park
+POB3 45025
+91450 Jerusalem, Israel
+Telephone: 857-9 19-2923
+Fax: +972-2-586-6680
+Email: rachel.weissbrod~oridion.com
+DEVICE INFORMATION
+Trade Name: Capnostream2o
+Common Name: Two Parameter Bedside Monitor
+Classification Name: Capnograph/Pulse Oximeter
+Regulation Number:
+868.1400, Carbon Dioxide Analyzer (Classification CCK)
+870.2700 Pulse Oximeter (Classification DQA)
+Device Listing Number: D001lliS.
+Page 10SPECIAL-51 0(k) Submission for CAPNOSTREAM2O two parameter bedside monitor with microMediCO2 C02 module
+510(k) Summary of Safety and Effectiveness
+PREDICATE DEVICE
+Capnostream20 with the microMediC02 002 board is substantially equivalent to the
+following commercially available device:
+Manufacturer Device 510(k)No. Clearance Date
+Oridion 1987 Medical Ltd Capnostream20 K(082268 February gth, 2009
+DEVICE DESCRIPTION
+The Capnostream20 bedside monitor is a two parameter monitor consisting of a 002
+capnography module and a pulse oximetry module implemented in a host device. The host
+device displays parameters received from the respective modules and generates alarms
+when preset alarm thresholds are crossed. The device is classified as CCK Class IL
+according to 21 CFR § 868.1400 -Carbon Dioxide Analyzer with DQA 21 CFR § 870.2700
+Pulse Oximeter listed as an additional or alternate classification.
+This device has two modules that are classified as follows:
+* 21 CFR 868.1400, Carbon Dioxide Analyzer (Classification CCK)
+* 21 CFR 870.2700 Pulse Oximeter (Classification DQA)
+Each module is controlled by dedicated software that is an integral part of the
+respective module.
+INTENDED USE
+The Capnostream20 combined capnograph/pulse oximeter monitor is intended to provide
+professionally trained health care providers the continuous, non invasive measurement and
+monitoring of carbon dioxide concentration of the expired and inspired breath and
+respiration rate, and for the continuous non-invasive monitoring of functional oxygen
+saturation of arterial hemoglobin (SP02) and pulse rate. It is intended for use with neonatal,
+pediatric and adult patients in hospitals, hospital type facilities, intra-hospital transport and
+home environments.
+The Capnostream20 monitor provides the clinician with an integrated pulmonary index (IPI).
+The IPI is based on four parameters provided by the monitor: end tidal carbon dioxide,
+respiration rate, oxygen saturation and pulse rate. The IPI is a single index of an adult or
+pediatric patient's ventilatory status displayed on a scale of 1 -1 0, where 10 indicates
+optimal pulmonary status. [Pi monitoring displays a single value that represents the
+Page I11SPECIAL-51O(k) Submission for CAPNOSTREAM20 two parameter bedside monitor with microMediC02 002 module
+510(k) Summary of Safety and Effectiveness
+patient's pulmonary parameters and alerts clinicians to changes in the patient's pulmonary
+status.
+The IPI is an adjunct to, and is not intended to replace, vital sign monitoring
+COMPARISON TO PREDICATE DEVICE
+The Capnostream2O with the micromediCO2 C02 module is substantially equivalent to the
+predicate Capnostream2O with the minimedi0O2 C02 module.
+The new device meets the safety and performance standards met by the predicate device.
+The functional features and the intended use of the Capnostream2O with the new C02
+module are substantially equivalent to the predicate device. No significant changes were
+made to the monitor hardware or software specifications to support the integration of the
+new module. Slight mechanical changes were made to the monitor to accommodate the
+smaller dimensions of the new module. The micromediCO2 module is smaller in size than
+the miniMediC02 module, in order to facilitate integration inside other OEM monitors, and
+provides enhanced processing and memory capacity, to support software applications for
+future development. The module provides the following inputs to the host monitor:
+FiCO2, EtCO2 numeric, EtCO2 waveform, Respiratory Rate, IPI (integrated Pulmonary
+Index), and continuous 002 numeric and waveform.
+The micromediCO2 includes a smaller lamp, a new solenoid, broader use of molded parts
+to improve production quality, increased processing power, reduced power consumption
+and improved flow regulation.
+The module software provides full backward compatibility with the miniMedic02 and
+supports RS232 or USB communication with the host monitor.
+A hazard analysis was carried out on the module and on the Capnostream2O monitor with
+the new module. This hazard analysis concluded that any residual risks were judged as
+acceptable when weighed against the intended benefits of use of the system. Verification
+and validation of the new module as a standalone and when integrated in the monitor were
+successfully completed.
+Page 12SPECIAL-510(k) Submission for CAPNOSTREAM20 two parameter bedside monitor with microMediC02 002 module
+510(k) Summary of Safety and Effectiveness
+Attribute Capnostream2O Bedside Predicate Device- Capnostream2O
+Monitor with Bedside Monitor K082268
+microMediCO2CO2 module
+Indications for The indications for use are identical to The Capnostream2O combined
+use the indications for use in the predicate capnograph/pulse oximeter monitor is intended
+device to provide professionally trained health care
+providers the continuous, non invasive
+measurement and monitoring of carbon
+dioxide concentration of the expired and
+inspired breath and respiration rate, and for
+the continuous non-invasive monitoring of
+functional oxygen saturation of arterial
+hemoglobin (SP02 and pulse rate). It is
+intended for use with neonatal, pediatric and
+adult patients in hospitals, hospital type
+facilities, intra hospital transport and home
+environments.
+Target It is intended for use with neonatal, It is intended for use with neonatal, pediatric,
+population pediatric, and adult patients. and adult patients.
+Design Identical to the Capnostream2o See K082268
+described in K082268 with the
+exception of the introduction of the
+micromediCa2 C02 module
+Where Used It is to be used by physicians, nurses It is to be used by physicians, nurses and
+and other trained health care other trained health care providers in critical
+providers in critical care patient care patient settings, such as anesthesiology,
+settings, such as anesthesiology, intensive care medicine, neonatal intensive
+intensive care medicine, neonatal care and other health care areas.
+intensive care and other health care
+areas.
+Performance ISO 21647 ISO 21647
+Standards ISO 9919 ISO 9919
+Safety IEC/EN 60601-1 lEO/EN 60601-1
+Standards lEC/EN 60601-1-2 IEC/EN 60601-1-2
+lEG 60601-1-8 lEC 60601-1-8
+U L60601 -1 UL 60601-1
+ISO 14971 ISO 14971
+Biocompatibility There are no issues of There are no issues of biocompatibility for this
+biocompatibility for this device and no device and no biocompatibility testing was
+biocompatibility testing was done. done.
+Sterility This device does not require This device does not require sterilization and is
+sterilization and is shipped marked shipped marked non-sterile.
+non-sterile.
+Page 13SPECIAL-510(k) Submission for CAPNOSTREAM20 two parameter bedside monitor with microMediC02 C02 module
+510(k) Summary of Safety and Effectiveness
+CONCLUSION
+Capnostream2O with the micromediCO2 C02 module does not raise any new potential
+safety risks and is equivalent in performance to the existing legally marketed device.
+Therefore, the device is substantially equivalent to the predicate device with respect to
+safety, effectiveness, and intended use.
+Page 14DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Food and Drug Administration
+10903 Newv I ampshire Avenue
+Documnent Control Roomn -W066-G609
+Silver Spring, MD 20993-0002
+Ms. Rachel WeissbrodMA12zo
+Director of Regulatory Affairs
+Oridion Capnography, Incorporated
+160 Gould Street
+Needham, Massachusetts 02494
+Re: K0940121
+Trade/Device Name: Capnostream20 with Micromnedico2 Module
+Regulation Number: 21 CER 868.1400
+Regulation Name: Carbon Dioxide Gas Analyzer
+Regulatory Class: 11
+Product Code: CCK
+Dated: April 13, 201 0
+Received: April 15, 201 0
+Dear Ms. Weissbrod:
+We have reviewed your Section 5 10(k) premnarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the
+indications for use stated in the enclosure) to legally marketed predicate devices marketed in
+interstate commerce prior to May 28, 1976, the enactment date of the Medical Device
+Amendments, or to devices that have been reclassified in accordance with the provisions of
+the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. The general controls provisions of the Act include
+requirements for annual registration, listing of devices, good manufacturing practice,
+labeling, and prohibitions against misbranding and adulteration. Please note: CDR-H does
+not evaluate information related to contract liability warranties. We remind you, however,
+that device labeling must be truthful and not misleading.
+If your device is classified (see above) into either class 11 (Special Controls) or class III
+(PMA), it may be subject to additional controls. Existing major regulations affecting your
+device can be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In
+addition, FDA may publish further announcements concerning your device in the Federal
+Register.Page 2- Ms. Rachel Weissbrod
+Please be advised that FDA's issuance of a Substantial equivalence determination does not
+mean that FDA has made a determination that your device complies with other requirements
+of the Act or any Federal statutes and regulations administered by other Federal agencies.
+You must comply with all the Act's requirements, including, but not limited to: registration
+and listing (21 CFR Part 807); labeling (21 CFR Part 801); medical device reporting
+(reporting of medical device-related adverse events) (21 CFR 803); good manufacturing
+practice requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820);
+and if applicable, the electronic product radiation control provis ions (Sections 53 1-542 of
+the Act); 21 CFR 1000- 1050.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801),
+please go to
+http://www.fda.rz~ov/AboutFDA/CentersOffices/CDRH/CDRHOffices/uci II 5809.htm for
+the Center for Devices and Radiological Health's (CDRH's) Office of Compliance. Also,
+please note the regulation entitled, "Misbranding by reference to premarket notification"
+(2I CFR Part 807.97). For questions regarding the reporting of adverse events under the
+MDR regulation (21 CFR Part 803), please go to
+http://www.fda.gQov/MedicalDevices/Safety/ReportaProblem/default.htm for the CDRH' s
+Office of Surveillance and Biometrics/Division of Postmarket Surveillance.
+You may obtain other generaf information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free
+numbe? (800) 638-2041 or (301) 796-71 00 or at its Internet address
+http://www.fda.g2ov/MedicalDevices/ResourcesforYou/Industry/default.htm.
+Since rely yours,
+Anthony D. Watson, B.S., M.S., M.B.A.
+Director
+Division of Anesthesiology, General Hospital,
+Infection Control and Dental Devices
+Office of Device Evaluation
+-Center for Devices and
+Radiological Health
+EnclosureSPECIAL-510(k) Submission for CAPNOSTREAM20 two parameter bedside monitor with microMediG02 G02 module
+Statement of Indications for Use
+6. Statement of Indications for Use
+TWO PARAMETER CAPNOSTREAM MONITOR
+(This document is not confidential)
+Indications for Use
+December 15th 2009
+510(k) Number (if known) 1 0 + ~
+Device Name: Capnostream 20
+Indications far Use:
+The Capnostream20 combined capnograph/pulse oximeter monitor is intended to provide
+professionally trained health care providers the continuous, non invasive measurement and
+monitoring of carbon dioxide concentration of the expired and inspired breath and respiration
+rate, and for the continuous non-invasive monitoring of functional oxygen saturation of arterial
+hemoglobin (SPO2) and pulse rate- It is intended for use with neonatal, pediatric and adult
+patients in hospitals, hospital type facilities, intra hospital transport and home environments.
+The Capnostreamn20 monitor provides the clinician with an integrated pulmonary index (IPI).
+The IPI is based on four parameters provided by the monitor: end tidal carbon dioxide,
+respiration rate, oxygen saturation and pulse rate. The IPI is a single index of an adult or
+pediatric patient's ventilatory status displayed on a scale of 1 -10, where 10 indicates optimal
+pulmonary status. IPI monitoring displays a single value that represents the patient's pulmonary
+parameters and alerts clinicians to changes in the patient's pulmonary status.
+The IPI is an adjunct to, and is not intended to replace, vital sign monitoring.
+Prescription Use X AND/OR Over-The-Counter Use _ __
+(Per 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+PLEASE DO NOT WRITE BELOW THIS LINE -CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+(Division Sign-Oft)
+Division of Anesthesiology, General Hospital
+Infection Control, Dental Devices
+510(k) Number: IzC G' I-
+PageS9

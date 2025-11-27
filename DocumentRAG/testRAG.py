@@ -60,7 +60,7 @@ def retrieve(query, top_n=3):
     similarities.sort(key=lambda x: x[1], reverse=True)
     return [chunk for chunk, _ in similarities[:top_n]] #returns top n
 
-def generate_response(query, context):
+def generate_response(query, context, retrieved_chunks=None):
     """Generate a response using the LLM with retrieved context."""
     prompt = f"""Answer the question based on the context below.
                  Context:
@@ -71,9 +71,18 @@ def generate_response(query, context):
                  Answer:"""
 
     response = llm(prompt, max_length=200, do_sample=False)
-    return response[0]['generated_text']
+    answer_text = response[0]['generated_text']
 
-def rag_query(query, top_n=3):
+    # Add context tags for hallucination evaluation
+    if retrieved_chunks:
+        # Summarize sources
+        source_info = f"Information retrieved from {len(retrieved_chunks)} text chunks from K060065.pdf.txt"
+        answer_with_context = f"{answer_text} <Context>{source_info}</Context>"
+        return answer_with_context
+
+    return answer_text
+
+def rag_query(query, top_n=3, include_context_tags=True):
     """Main RAG function"""
     print(f"\nQuery: {query}")
     print("Retrieving relevant context...")
@@ -85,8 +94,11 @@ def rag_query(query, top_n=3):
     print(f"Retrieved {len(relevant_chunks)} relevant chunks")
     print("\nGenerating response...")
 
-    # Generate response
-    response = generate_response(query, context)
+    # Generate response with context tags
+    if include_context_tags:
+        response = generate_response(query, context, retrieved_chunks=relevant_chunks)
+    else:
+        response = generate_response(query, context)
 
     return response, relevant_chunks
 

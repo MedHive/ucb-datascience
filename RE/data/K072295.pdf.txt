@@ -1,0 +1,224 @@
+~ 0 7 Z qc/-5-SPECIAL-CAPNOSTREAM20-Two Parameter Monitor With A2 Software CONFIDENTIAL
+4. 510(k) Summary of Safety and Effectiveness
+This summary of safety and effectiveness information is being submitted in accordance with
+the requirements of 21 CFR § 807.92 1 2
+(This document is not confidential)
+DATE THIS SUMMARY WAS PREPARED
+August 15, 2007
+SUBMITTER'S NAME AND ESTABLISHMENT ADDRESS:
+Oridion Capnography Inc.
+160 Gould Street
+Needham, MA 02494
+ESTABLISHMENT REGISTRATION NUMBER
+3003941644
+CONTACT PERSON:
+Rachel Weissbrod, Director of Regulatory Affairs
+Oridion Medical 1987 Ltd.
+Har Hotzvim Science Park
+POB 45025
+91450 Jerusalem, Israel
+Telephone: +972-2-589-9115
+Fax: +972-2-586-6680
+DEVICE INFORMATION
+Trade Name: Capnostream 20with A2software
+Common Name: Two Parameter Bedside Monitor
+Classification Name: Capnograph/Pulse Oximeter
+Regulation Number:
+868.1400, Carbon Dioxide Analyzer (Classification CCK)
+870.2700 Pulse Oximeter (Classification DQA)
+Device Listing Number: B051971
+Oridion Medical 1987 Ltd, 12SPECIAL-CAPNOSTREAM20-Two Parameter Monitor With A2 Software CONFIDENTIAL
+PREDICATE DEVICE
+Capnostream 20with the new miniMediCO 2module adaptive averaging (A2) software is
+substantially equivalent to the following commercially available device:
+Manufacturer Device 510(k)No. Clearance Date
+Oridion 1987 Medical Capnostream 20K060065 May 4th, 2006
+Ltd
+DEVICE DESCRIPTION
+The Capnostream 20bedside monitor is a two parameter monitor consisting of a
+miniMediCO 2capnography module and a pulse oximetry module implemented in a host
+device. The host device displays parameters received from the respective modules and
+generates alarms when preset alarm thresholds are crossed. The device is classified as
+CCK Class II according to 21 CFR § 868.1400 -Carbon Dioxide Analyzer.
+This device has two modules that are classified as follows:
+* 21 CFR 868.1400, Carbon Dioxide Analyzer (Classification CCK)
+* 21 CFR870.2700 Pulse Oximeter (Classification DQA)
+Each module is controlled by dedicated software that is an integral part of the
+respective module. Each module provides parameters to the host software (the
+Capnostream 20device software) which then controls the display of the received
+parameter values and creates alarms when the values cross the preset thresholds.
+The miniMediCO 2capnography module software presented in this submission
+includes an adaptive averaging algorithm defined as the A2Algorithm for calculating
+the respiration rate from the C02 waveform introduced in software version 2.31 of the
+miniMediCO 2capnography module software. The calculated respiration rate
+parameter is then provided to the host (the Capnostream 20device software). The host
+makes no modification to the values received from the module. The host triggers an
+alarm when the respiration rate high or respiration rate low thresholds have been
+crossed. The algorithm employed in the respiration rate calculation reduces false
+positive alarms by filtering out noise and instantaneous fluctuations without missing
+true alarms that may indicate a clinically significant change to respiration rate. By
+Oridion Medical 1987 Ltd. 13SPECIAL-CAPNOSTREAM20-Two Parameter Monitor With A2 Software CONFIDENTIAL
+employing the adaptive averaging algorithm, the respiration rate accurately reflects the
+patient's condition and significantly reduces the generation of nuisance alarms by the
+host.
+INTENDED USE
+The Capnostream 20combined capnograph/pulse oximeter monitor is intended to provide
+professionally trained health care providers the continuous, non invasive measurement and
+monitoring of carbon dioxide concentration of the expired and inspired breath and
+respiration rate, and for the continuous non-invasive monitoring of functional oxygen
+saturation of arterial hemoglobin (SpO2) and pulse rate. It is intended for use with neonatal,
+pediatric and adult patients in hospitals, hospital type facilities, intra hospital transport and
+home environments.
+COMPARISON TO PREDICATE DEVICE
+The Capnostream 20 with adaptive averaging (A2) software (miniMediCO2 software version
+2.31) is identical to the predicate Capnostream 2o (miniMediCO2 software version 2.20) with
+the exception of the algorithm changes. No changes to the host (Capnostream 2o) software
+were made to support the new module algorithms and no significant hardware changes
+have been made to the device.
+The new device meets the safety and performance standards met by the predicate device.
+Test data are provided to validate the performance of the software and its substantial
+equivalence to the predicate device. The functional features and the intended use of
+Capnostream 20with adaptive averaging software are substantially equivalent to the
+predicate device.
+A hazard analysis was carried out on the module with the new algorithms. This hazard
+analysis concluded that any residual risks were judged as acceptable when weighed
+against the intended benefits of use of the system.
+Attribute Capnostream 20Bedside Predicate Device- Capnostream 2o Bedside
+Monitor with MiniMediCO 2Monitor K060065
+EtCO2module with adaptive
+averaging (A2) software
+(version 2.31)
+Indications for The indications for use are identical The Capnostream 20combined capnograph/pulse
+use to the indications for use in the oximeter monitor is intended to provide
+predicate device professionally trained health care providers the
+continuous, non invasive measurement and
+Oridion Medical 1987 Ltd. 14SPECIAL-CAPNOSTREAM20-Two Parameter Monitor With A2 Software CONFIDENTIAL
+monitoring of carbon dioxide concentration of the
+expired and inspired breath and respiration rate,
+and for the continuous non-invasive monitoring of
+functional oxygen saturation of arterial
+hemoglobin (Sp02and pulse rate). It is intended
+for use with neonatal, pediatric and adult patients
+in hospitals, hospital type facilities, intra hospital
+transport and home environments.
+Target It is intended for use with neonatal, It is intended for use with neonatal, pediatric, and
+population pediatric, and adult patients. adult patients.
+Design Identical to MiniMediCO 2module in See K060065
+K060065 with the exception of
+software version change from 2.20
+to 2.31
+Where Used It is to be used by physicians, It is to be used by physicians, nurses and other
+nurses and other trained health trained health care providers in critical care
+care providers in critical care patient settings, such as anesthesiology,
+patient settings, such as intensive care medicine, neonatal Intensive care
+anesthesiology, intensive care and other health care areas
+medicine, neonatal Intensive care
+and other health care areas
+Performance IS021647 IS021647
+Standards ISO 9919 ISO 9919
+Safety IEC/EN60601-1 IEC/EN60601-1
+StandardsIEC/EN60601-1-2(2001) IEC/EN60601-1-2(2001)
+IEC60601-1-8 IEC60601-1-8
+UL60601-1 UL60601-1
+ISO 14971 ISO 14971
+Biocompatibility There are no issues of There are no issues of biocompatibility for this
+biocompatibility for this device and device and no biocompatibility testing was done.
+no biocompatibility testing was
+done.
+Sterility This device does not require This device does not require sterilization and is
+sterilization and is shipped marked shipped marked non-sterile.
+non-sterile.
+CONCLUSION
+Capnostream 20with adaptive averaging software does not raise any new potential safety
+risks and is equivalent in performance to the existing legally marketed device. Therefore,
+the device is substantially equivalent to the predicate device with respect to safety
+effectiveness, and intended use.
+Oridion Medical 1987 Ltd. 18DEPARTMENT OF HEALTH & HUMAN SERVICES Public Health Service
+Food and Drug Administration
+9200 Corporate Boulevard
+OCT .1 .[ 200? Rockville MD 20850
+Oridion Capnography, Incorporated
+C/O Ms. Rachel Weissbrod
+Director of Regulatory Affairs
+Oridion Medical 1987 Limited
+Har Hotzvim Science Park
+Post Office Box 45025
+91450 Jerusalem
+ISRAEL
+Re: K072295
+Trade/Device Name: Capnostream 20
+Regulation Number: 21 CFR 870.2700
+Regulation Name: Oximeter
+Regulatory Class: II
+Product Code: DQA, CCK
+Dated: September 16, 2007
+Received: September 20, 2007
+Dear Ms. Weissbrod:
+We have reviewed your Section 510(k) premarket notification of intent to market the device
+referenced above and have determined the device is substantially equivalent (for the
+indications for use stated in the enclosure) to legally marketed predicate devices marketed in
+interstate commerce prior to May 28, 1976, the enactment date of the Medical Device
+Amendments, or to devices that have been reclassified in accordance with the provisions of
+the Federal Food, Drug, and Cosmetic Act (Act) that do not require approval of a premarket
+approval application (PMA). You may, therefore, market the device, subject to the general
+controls provisions of the Act. The general controls provisions of the Act include
+requirements for annual registration, listing of devices, good manufacturing practice,
+labeling, and prohibitions against misbranding and adulteration.
+If your device is classified (see above) into either class II (Special Controls) or class III
+(PMA), it may be subject to such additional controls. Existing major regulations affecting
+your device can be found in the Code of Federal Regulations, Title 21, Parts 800 to 898. In
+addition, FDA may publish further announcements concerning your device in the Federal
+Register.Page 2 -Ms. Weissbrod
+Please be advised that FDA's issuance of a substantial equivalence determination does not
+mean that FDA has made a determination that your device complies with other requirements
+of the Act or any Federal statutes and regulations administered by other Federal agencies.
+You must comply with all the Act's requirements, including, but not limited to: registration
+and listing (21 CFR Part 807); labeling (21 CFR Part 801); good manufacturing practice
+requirements as set forth in the quality systems (QS) regulation (21 CFR Part 820); and if
+applicable, the electronic product radiation control provisions (Sections 531-542 of the Act);
+21 CFR 1000-1050.
+This letter will allow you to begin marketing your device as described in your Section 510(k)
+premarket notification. The FDA finding of substantial equivalence of your device to a
+legally marketed predicate device results in a classification for your device and thus, permits
+your device to proceed to the market.
+If you desire specific advice for your device on our labeling regulation (21 CFR Part 801),
+please contact the Office of Compliance at (240) 276-0115. Also, please note the regulation
+entitled, "Misbranding by reference to premarket notification" (21CFR Part 807.97). You
+may obtain other general information on your responsibilities under the Act from the
+Division of Small Manufacturers, International and Consumer Assistance at its toll-free
+number (800) 638-2041 or (240) 276-3150 or at its Internet address
+http://www.fda.gov/cdrh/industry/support/index.html.
+Sincerely yours,
+Chiu Lin, Ph.D.
+Director
+Division of Anesthesiology, General Hospital,
+Infection Control and Dental Devices
+Office of Device Evaluation
+Center for Devices and
+Radiological Health
+EnclosureSPECIAL-CAPNOSTREAM20-Two Parameter Monitor With A2 Software CONFIDENTIAL
+3. Statement of Indications for Use
+TWO PARAMETER CAPNOSTREAM20 MONITOR WITH ADAPTIVE AVERAGING
+SOFTWARE
+(This document is not confidential)
+Indications for Use
+August 15, 2007
+510(k) Number (if known) -' O 7 d, .'J
+Device Name: Capnostream 20
+Indications For Use:
+The Capnostream 20combined capnograph/pulse oximeter monitor is intended to provide
+professionally trained health care providers the continuous, non invasive measurement and
+monitoring of carbon dioxide concentration of the expired and inspired breath and
+respiration rate, and for the continuous non-invasive monitoring of functional oxygen
+saturation of arterial hemoglobin (SpO2and pulse rate). It is intended for use with neonatal,
+pediatric and adult patients in hospitals, hospital type facilities, intra hospital transport and
+home environments.
+Prescription Use X AND/OR Over-The-Counter Use
+(Per 21 CFR 801 Subpart D) (21 CFR 801 Subpart C)
+PLEASE DO NOT WRITE BELOW THIS LINE -CONTINUE ON ANOTHER PAGE IF
+NEEDED)
+(Division Sign-0ff)
+Division of Anesthesiology, General Hospital
+Infection Control, Dental Devices
+510(k) Number: /O %7 2 9
+Oridion Medical 1987 Ltd.
